@@ -1601,6 +1601,21 @@ const genusRows = arrCounts(SUMMARY.genus_counts).filter(r=>r.label!=="Unclassif
 const allCountryRows = arrCounts(SUMMARY.country_counts).filter(r=>r.label!=="Other" && r.label!=="Unknown / Independent / Noise" && r.label!=="Cross-region");
 const countryRows = allCountryRows.slice(0,15);
 const affRows = arrCounts(SUMMARY.aff_counts).slice(0,25);
+const PHYLUM_COLOR = new Map(phylumRows.map((r,i)=>[r.label, PALETTE[i % PALETTE.length]]));
+function colorForPhylum(phylum){ return PHYLUM_COLOR.get(phylum) || "#8e8e93"; }
+const CLASS_PHYLUM = new Map(), ORDER_PHYLUM = new Map(), GENUS_PHYLUM = new Map();
+for (const phylumNode of (TREE.children || [])) {
+  const phylum = phylumNode.name;
+  for (const classNode of (phylumNode.children || [])) {
+    if (!CLASS_PHYLUM.has(classNode.name)) CLASS_PHYLUM.set(classNode.name, phylum);
+    for (const orderNode of (classNode.children || [])) {
+      if (!ORDER_PHYLUM.has(orderNode.name)) ORDER_PHYLUM.set(orderNode.name, phylum);
+      for (const genusNode of (orderNode.children || [])) {
+        if (!GENUS_PHYLUM.has(genusNode.name)) GENUS_PHYLUM.set(genusNode.name, phylum);
+      }
+    }
+  }
+}
 const COUNTRY_COLOR = new Map(allCountryRows.map((r,i)=>[r.label, PALETTE[i % PALETTE.length]]));
 function colorForCountry(country){ return country && country !== "Other" ? (COUNTRY_COLOR.get(country) || "#c7c7cc") : "#c7c7cc"; }
 const AFF_COUNTRY = new Map();
@@ -1638,9 +1653,9 @@ $("statGrid").innerHTML = [
 ].map(([v,l])=>`<div class="stat"><div class="v">${v}</div><div class="l">${l}</div></div>`).join("");
 chartDoughnut("typeChart", typeRows, {onClick:v=>setFilter("typeFilter",v)});
 chartDoughnut("acceptChart", [{label:"Accepted",value:4090},{label:"Rejected / withdrawn",value:16092-4090}], {colors:(label)=>label==="Accepted"?"#0066cc":"#c7c7cc"});
-chartBar("phylumChart", phylumRows, {onClick:v=>setFilter("phylumFilter",v)});
-chartBar("classChart", classRows, {onClick:v=>setFilter("classFilter",v)});
-chartBar("genusChart", genusRows, {onClick:v=>{state.genus = (state.genus === v ? "" : v); page=1; renderResults(); goSearch();}});
+chartBar("phylumChart", phylumRows, {onClick:v=>setFilter("phylumFilter",v), colors:v=>colorForPhylum(v)});
+chartBar("classChart", classRows, {onClick:v=>setFilter("classFilter",v), colors:v=>colorForPhylum(CLASS_PHYLUM.get(v))});
+chartBar("genusChart", genusRows, {onClick:v=>{state.genus = (state.genus === v ? "" : v); page=1; renderResults(); goSearch();}, colors:v=>colorForPhylum(GENUS_PHYLUM.get(v))});
 chartBar("affChart", affRows, {
   onClick:v=>setFilter("affFilter",v),
   colors:v=>colorForCountry(AFF_COUNTRY.get(v)),
