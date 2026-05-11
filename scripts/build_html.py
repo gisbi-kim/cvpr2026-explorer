@@ -1529,6 +1529,7 @@ main{padding:48px 0 80px;min-width:0}section{scroll-margin-top:76px;margin-botto
   <section id="heatmap">
     <h2>Country x phylum</h2>
     <div class="section-sub">Rows are top affiliation regions, columns are top CV/ML phyla. Click cells or labels to filter.</div>
+    <div class="section-sub">Each paper can carry up to three semantic tags, so a multi-tag paper may contribute to multiple phylum columns.</div>
     <div class="card" style="overflow-x:auto"><div id="heatmapGrid" class="heatmap"></div></div>
     <div class="plot3d-panel">
       <div class="plot3d-head"><h3>3D bar view</h3><div class="plot3d-note">Drag to rotate, wheel to zoom, click a bar to filter.</div></div>
