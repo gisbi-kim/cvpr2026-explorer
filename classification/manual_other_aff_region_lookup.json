@@ -1,0 +1,5778 @@
+[
+  {
+    "rank": 1,
+    "affiliation": "Independent Researcher",
+    "papers": 9,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "high",
+    "note": "independent researcher, no institution"
+  },
+  {
+    "rank": 2,
+    "affiliation": "amp",
+    "papers": 5,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "high",
+    "note": "HTML parse artifact"
+  },
+  {
+    "rank": 3,
+    "affiliation": "Hao Chen",
+    "papers": 3,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "medium",
+    "note": "person name, not institution"
+  },
+  {
+    "rank": 4,
+    "affiliation": "Disney Research",
+    "papers": 3,
+    "region": "USA",
+    "confidence": "high",
+    "note": "company research lab; treated as US HQ"
+  },
+  {
+    "rank": 5,
+    "affiliation": "Polytechnic Institute of Turin",
+    "papers": 2,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Politecnico di Torino"
+  },
+  {
+    "rank": 6,
+    "affiliation": "Avolution AI",
+    "papers": 2,
+    "region": "Australia",
+    "confidence": "low",
+    "note": "company name; likely Avolution/AI company, corporate-origin guess"
+  },
+  {
+    "rank": 7,
+    "affiliation": "Scanline VFX",
+    "papers": 2,
+    "region": "Canada",
+    "confidence": "medium",
+    "note": "VFX company; Vancouver/Netflix Scanline basis"
+  },
+  {
+    "rank": 8,
+    "affiliation": "Northwestern Univeristy",
+    "papers": 2,
+    "region": "USA",
+    "confidence": "high",
+    "note": "typo for Northwestern University"
+  },
+  {
+    "rank": 9,
+    "affiliation": "Polytechnic Institute of Milan",
+    "papers": 2,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Politecnico di Milano"
+  },
+  {
+    "rank": 10,
+    "affiliation": "OMRON SINICX",
+    "papers": 2,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "Japan keyword/name"
+  },
+  {
+    "rank": 11,
+    "affiliation": "Dexmal",
+    "papers": 2,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved company"
+  },
+  {
+    "rank": 12,
+    "affiliation": "VAST",
+    "papers": 2,
+    "region": "USA",
+    "confidence": "low",
+    "note": "ambiguous VAST/VAST Data/Vast.ai; HQ guess"
+  },
+  {
+    "rank": 13,
+    "affiliation": "Shanda Group Corp.",
+    "papers": 2,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Shanda Group"
+  },
+  {
+    "rank": 14,
+    "affiliation": "Uni Bonn                Lamarr Institute",
+    "papers": 2,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "University of Bonn / Lamarr Institute"
+  },
+  {
+    "rank": 15,
+    "affiliation": "YouTube",
+    "papers": 2,
+    "region": "USA",
+    "confidence": "high",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 16,
+    "affiliation": "Linkin",
+    "papers": 2,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "likely LinkedIn typo"
+  },
+  {
+    "rank": 17,
+    "affiliation": "Intellindust",
+    "papers": 2,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 18,
+    "affiliation": "Impossible, Inc.",
+    "papers": 2,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 19,
+    "affiliation": "NTU",
+    "papers": 2,
+    "region": "Singapore",
+    "confidence": "medium",
+    "note": "likely Nanyang Technological University in CV context; ambiguous with Taiwan"
+  },
+  {
+    "rank": 20,
+    "affiliation": "EbTech Co. Ltd.",
+    "papers": 2,
+    "region": "South Korea",
+    "confidence": "low",
+    "note": "Co. Ltd. company; likely Korean/Asian company, needs verification"
+  },
+  {
+    "rank": 21,
+    "affiliation": "Siemens Healthineers",
+    "papers": 2,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Siemens Healthineers HQ Germany"
+  },
+  {
+    "rank": 22,
+    "affiliation": "SYSU",
+    "papers": 2,
+    "region": "China",
+    "confidence": "high",
+    "note": "Sun Yat-sen University"
+  },
+  {
+    "rank": 23,
+    "affiliation": "iHorry",
+    "papers": 2,
+    "region": "China",
+    "confidence": "low",
+    "note": "Chinese-sounding company; needs verification"
+  },
+  {
+    "rank": 24,
+    "affiliation": "IIE",
+    "papers": 2,
+    "region": "China",
+    "confidence": "medium",
+    "note": "likely Institute of Information Engineering, CAS in this corpus"
+  },
+  {
+    "rank": 25,
+    "affiliation": "Applied AI Institute",
+    "papers": 2,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "could not infer reliably from string; leave for manual/web verification"
+  },
+  {
+    "rank": 26,
+    "affiliation": "Shopee",
+    "papers": 2,
+    "region": "Singapore",
+    "confidence": "high",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 27,
+    "affiliation": "Wormpex AI Research",
+    "papers": 2,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Wormpex/AI research China guess"
+  },
+  {
+    "rank": 28,
+    "affiliation": "FusionBrain Lab",
+    "papers": 2,
+    "region": "Russia",
+    "confidence": "medium",
+    "note": "known Russia/Sber ecosystem; needs verification"
+  },
+  {
+    "rank": 29,
+    "affiliation": "ZGC Lab",
+    "papers": 2,
+    "region": "China",
+    "confidence": "high",
+    "note": "Zhongguancun Laboratory"
+  },
+  {
+    "rank": 30,
+    "affiliation": "Niantic",
+    "papers": 2,
+    "region": "USA",
+    "confidence": "high",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 31,
+    "affiliation": "Pingan Technology",
+    "papers": 2,
+    "region": "China",
+    "confidence": "high",
+    "note": "Ping An Technology"
+  },
+  {
+    "rank": 32,
+    "affiliation": "Tars Robotics Ltd.",
+    "papers": 2,
+    "region": "China",
+    "confidence": "low",
+    "note": "robotics company; China guess"
+  },
+  {
+    "rank": 33,
+    "affiliation": "Shanghai ZEEKR Blue New Energy Technology Co., Ltd.",
+    "papers": 2,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese company"
+  },
+  {
+    "rank": 34,
+    "affiliation": "ZEEKR",
+    "papers": 2,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese company"
+  },
+  {
+    "rank": 35,
+    "affiliation": "SGIT AI",
+    "papers": 2,
+    "region": "South Korea",
+    "confidence": "medium",
+    "note": "likely Samsung Global/SGIT AI; needs verification"
+  },
+  {
+    "rank": 36,
+    "affiliation": "cmjt",
+    "papers": 2,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved acronym"
+  },
+  {
+    "rank": 37,
+    "affiliation": "AceNerds",
+    "papers": 2,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved company"
+  },
+  {
+    "rank": 38,
+    "affiliation": "NUS (Ai Yihao)",
+    "papers": 2,
+    "region": "Singapore",
+    "confidence": "medium",
+    "note": "NUS mention"
+  },
+  {
+    "rank": 39,
+    "affiliation": "MiroMind",
+    "papers": 2,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese AI company/project; needs verification"
+  },
+  {
+    "rank": 40,
+    "affiliation": "Acompany",
+    "papers": 2,
+    "region": "South Korea",
+    "confidence": "medium",
+    "note": "likely Korean AI company Acompany"
+  },
+  {
+    "rank": 41,
+    "affiliation": "中国科学院计算技术研究所",
+    "papers": 2,
+    "region": "China",
+    "confidence": "high",
+    "note": "Institute of Computing Technology, CAS"
+  },
+  {
+    "rank": 42,
+    "affiliation": "IEEE",
+    "papers": 2,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "medium",
+    "note": "publisher/association, not affiliation"
+  },
+  {
+    "rank": 43,
+    "affiliation": "PrimeBot",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "could not infer reliably from string; leave for manual/web verification"
+  },
+  {
+    "rank": 44,
+    "affiliation": "Deci",
+    "papers": 1,
+    "region": "Israel",
+    "confidence": "medium",
+    "note": "Deci AI origin/HQ basis"
+  },
+  {
+    "rank": 45,
+    "affiliation": "Universidad Católica de Chile",
+    "papers": 1,
+    "region": "Chile",
+    "confidence": "high",
+    "note": "Chile university"
+  },
+  {
+    "rank": 46,
+    "affiliation": "Pontificia Universidad Catolica de Chile",
+    "papers": 1,
+    "region": "Chile",
+    "confidence": "high",
+    "note": "Chile university"
+  },
+  {
+    "rank": 47,
+    "affiliation": "Chengdu University of Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 48,
+    "affiliation": "IMT Mines Ales",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 49,
+    "affiliation": "CYENS Center of Excellence",
+    "papers": 1,
+    "region": "Cyprus",
+    "confidence": "high",
+    "note": "CYENS Centre of Excellence"
+  },
+  {
+    "rank": 50,
+    "affiliation": "University of Cyprus",
+    "papers": 1,
+    "region": "Cyprus",
+    "confidence": "high",
+    "note": "university country"
+  },
+  {
+    "rank": 51,
+    "affiliation": "Math Magic",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "MathMagic/Math Magic company guess"
+  },
+  {
+    "rank": 52,
+    "affiliation": "Meshy AI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "AI startup; US HQ guess"
+  },
+  {
+    "rank": 53,
+    "affiliation": "Jio Institute",
+    "papers": 1,
+    "region": "India",
+    "confidence": "high",
+    "note": "India"
+  },
+  {
+    "rank": 54,
+    "affiliation": "McMaster university",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "high",
+    "note": "McMaster University"
+  },
+  {
+    "rank": 55,
+    "affiliation": "Max-Planck Institute",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Max Planck Society"
+  },
+  {
+    "rank": 56,
+    "affiliation": "National Institute of Technology Rourkela",
+    "papers": 1,
+    "region": "India",
+    "confidence": "high",
+    "note": "NIT Rourkela"
+  },
+  {
+    "rank": 57,
+    "affiliation": "General Trajectory",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 58,
+    "affiliation": "SWARM Biotactics GmbH",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "Germany keyword/name"
+  },
+  {
+    "rank": 59,
+    "affiliation": "Jiigan Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "technology company; China guess"
+  },
+  {
+    "rank": 60,
+    "affiliation": "Indepedent",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "high",
+    "note": "typo for independent"
+  },
+  {
+    "rank": 61,
+    "affiliation": "Polytech Nice Sophia",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "French engineering school"
+  },
+  {
+    "rank": 62,
+    "affiliation": "Liaoning Technical University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 63,
+    "affiliation": "Yan Shan University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Yanshan University"
+  },
+  {
+    "rank": 64,
+    "affiliation": "Universidad de Oviedo",
+    "papers": 1,
+    "region": "Spain",
+    "confidence": "high",
+    "note": "Spain"
+  },
+  {
+    "rank": 65,
+    "affiliation": "Hasso Plattner Institute",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "HPI Potsdam"
+  },
+  {
+    "rank": 66,
+    "affiliation": "Conservation X Labs",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US-based conservation technology organization"
+  },
+  {
+    "rank": 67,
+    "affiliation": "Climate Corridors",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "organization unclear"
+  },
+  {
+    "rank": 68,
+    "affiliation": "Senckenberg Society for Nature Research",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "German research society"
+  },
+  {
+    "rank": 69,
+    "affiliation": "Osa Conservation",
+    "papers": 1,
+    "region": "Costa Rica",
+    "confidence": "medium",
+    "note": "Osa Conservation works in Costa Rica"
+  },
+  {
+    "rank": 70,
+    "affiliation": "Futurewei Technologies",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US-based Huawei subsidiary; HQ basis"
+  },
+  {
+    "rank": 71,
+    "affiliation": "Intrinsic Innovation LLC",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 72,
+    "affiliation": "Intrinsic",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 73,
+    "affiliation": "University of Hawaii at Manoa",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 74,
+    "affiliation": "HaoHan Data",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese data/company name"
+  },
+  {
+    "rank": 75,
+    "affiliation": "Honda",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 76,
+    "affiliation": "Honda R&D",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "default Honda R&D Japan unless US/EU indicated"
+  },
+  {
+    "rank": 77,
+    "affiliation": "General Electric",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 78,
+    "affiliation": "Wuzhou university",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 79,
+    "affiliation": "Tradition SA",
+    "papers": 1,
+    "region": "Switzerland",
+    "confidence": "medium",
+    "note": "Tradition financial group HQ Switzerland"
+  },
+  {
+    "rank": 80,
+    "affiliation": "Augusta University",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 81,
+    "affiliation": "Squirrel Ai Learning",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese AI education company"
+  },
+  {
+    "rank": 82,
+    "affiliation": "Pixomondo Innovation",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "low",
+    "note": "Pixomondo founded Germany/now global; Germany guess"
+  },
+  {
+    "rank": 83,
+    "affiliation": "Universidad de Las Palmas de Gran Canaria",
+    "papers": 1,
+    "region": "Spain",
+    "confidence": "high",
+    "note": "Spain"
+  },
+  {
+    "rank": 84,
+    "affiliation": "Arquimea Research Center",
+    "papers": 1,
+    "region": "Spain",
+    "confidence": "medium",
+    "note": "Spanish technology group"
+  },
+  {
+    "rank": 85,
+    "affiliation": "Max Delbrück Center for Molecular Medicine in the Helmholtz Association",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "MDC Berlin"
+  },
+  {
+    "rank": 86,
+    "affiliation": "Max Delbrück Center for Molecular Medicine",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "MDC Berlin"
+  },
+  {
+    "rank": 87,
+    "affiliation": "MDC Berlin",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "MDC Berlin"
+  },
+  {
+    "rank": 88,
+    "affiliation": "Momo Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 89,
+    "affiliation": "Porsche AG",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 90,
+    "affiliation": "CARIAD",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Volkswagen software unit"
+  },
+  {
+    "rank": 91,
+    "affiliation": "Hochschule Ravensburg-Weingarten University of Applied Sciences",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 92,
+    "affiliation": "V&R Vision & Robotics GmbH",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "GmbH indicates Germany/Austria; default Germany"
+  },
+  {
+    "rank": 93,
+    "affiliation": "Vision & Robotics GmbH",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "GmbH indicates Germany/Austria; default Germany"
+  },
+  {
+    "rank": 94,
+    "affiliation": "KingMed",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "KingMed Diagnostics China"
+  },
+  {
+    "rank": 95,
+    "affiliation": "Xi‘an jiaotong university",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Xi’an Jiaotong University"
+  },
+  {
+    "rank": 96,
+    "affiliation": "Blue yonder",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 97,
+    "affiliation": "Max-Planck-Institute of Animal Behaviour",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Max Planck Institute"
+  },
+  {
+    "rank": 98,
+    "affiliation": "Montreal Institute of Learning Algorithms",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "high",
+    "note": "Mila, Canada"
+  },
+  {
+    "rank": 99,
+    "affiliation": "Abyss Solutions",
+    "papers": 1,
+    "region": "Australia",
+    "confidence": "medium",
+    "note": "Australia keyword/name"
+  },
+  {
+    "rank": 100,
+    "affiliation": "University of Luxemburg",
+    "papers": 1,
+    "region": "Luxembourg",
+    "confidence": "high",
+    "note": "typo for Luxembourg"
+  },
+  {
+    "rank": 101,
+    "affiliation": "(1) CRISTAL laboratory, ENSI, University of Manouba",
+    "papers": 1,
+    "region": "Tunisia",
+    "confidence": "high",
+    "note": "University of Manouba, Tunisia"
+  },
+  {
+    "rank": 102,
+    "affiliation": "(2) SnT, University of Luxembourg",
+    "papers": 1,
+    "region": "Luxembourg",
+    "confidence": "high",
+    "note": "University of Luxembourg"
+  },
+  {
+    "rank": 103,
+    "affiliation": "Infinite Orbits SAS",
+    "papers": 1,
+    "region": "France",
+    "confidence": "medium",
+    "note": "SAS French corporate form; likely France"
+  },
+  {
+    "rank": 104,
+    "affiliation": "Institute of Software, CAS",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "CAS, China"
+  },
+  {
+    "rank": 105,
+    "affiliation": "PRE",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "low",
+    "note": "unresolved acronym"
+  },
+  {
+    "rank": 106,
+    "affiliation": "Yanbian University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 107,
+    "affiliation": "华为",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Huawei"
+  },
+  {
+    "rank": 108,
+    "affiliation": "Robert Koch Institute",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 109,
+    "affiliation": "Songshan Laboratory",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China lab"
+  },
+  {
+    "rank": 110,
+    "affiliation": "Flawless AI",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "low",
+    "note": "AI media company; UK/US ambiguity"
+  },
+  {
+    "rank": 111,
+    "affiliation": "Cruise",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 112,
+    "affiliation": "WeBank",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese digital bank"
+  },
+  {
+    "rank": 113,
+    "affiliation": "Shanda Group Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Shanda Group"
+  },
+  {
+    "rank": 114,
+    "affiliation": "Daesang",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "Korean company"
+  },
+  {
+    "rank": 115,
+    "affiliation": "Shanghai Shuzhiwei Information Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 116,
+    "affiliation": "Ruijin Hospital",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Shanghai hospital"
+  },
+  {
+    "rank": 117,
+    "affiliation": "Bilibili Inc.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese company"
+  },
+  {
+    "rank": 118,
+    "affiliation": "Bilibili",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese company"
+  },
+  {
+    "rank": 119,
+    "affiliation": "Zuse Institute Berlin (ZIB)",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "ZIB Berlin"
+  },
+  {
+    "rank": 120,
+    "affiliation": "Westcliff University",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 121,
+    "affiliation": "QCraft Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 122,
+    "affiliation": "Chongqing Academy of Science and Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 123,
+    "affiliation": "Mines Paris",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 124,
+    "affiliation": "Mines Paris - PSL University",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 125,
+    "affiliation": "Mines Paris PSL",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 126,
+    "affiliation": "Università di Pisa, Dipartimento di Informatica",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Italy"
+  },
+  {
+    "rank": 127,
+    "affiliation": "Academy of Military Medical Sciences",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese AMMS in corpus context"
+  },
+  {
+    "rank": 128,
+    "affiliation": "Reve AI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "AI startup; HQ guess"
+  },
+  {
+    "rank": 129,
+    "affiliation": "Weifang University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 130,
+    "affiliation": "Ubicept",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 131,
+    "affiliation": "Birmingham City University",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "high",
+    "note": "UK"
+  },
+  {
+    "rank": 132,
+    "affiliation": "Rocket Force University of Engineering",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China military/CAS keyword"
+  },
+  {
+    "rank": 133,
+    "affiliation": "dConstruct Robotics",
+    "papers": 1,
+    "region": "Switzerland",
+    "confidence": "medium",
+    "note": "dConstruct Robotics Switzerland/Singapore; Switzerland guess"
+  },
+  {
+    "rank": 134,
+    "affiliation": "Sano Centre for Computational Medicine",
+    "papers": 1,
+    "region": "Poland",
+    "confidence": "medium",
+    "note": "Sano Centre in Kraków"
+  },
+  {
+    "rank": 135,
+    "affiliation": "Peking. University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Peking University typo"
+  },
+  {
+    "rank": 136,
+    "affiliation": "Goethe University",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Goethe University Frankfurt"
+  },
+  {
+    "rank": 137,
+    "affiliation": "Beijing Institute of Mathematical Sciences and Applications",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 138,
+    "affiliation": "Hebei Medical University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 139,
+    "affiliation": "VIVIX.AI",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "low",
+    "note": "company name; Korea guess"
+  },
+  {
+    "rank": 140,
+    "affiliation": "SmarterDx",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "US healthcare AI company"
+  },
+  {
+    "rank": 141,
+    "affiliation": "NWPU",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Northwestern Polytechnical University"
+  },
+  {
+    "rank": 142,
+    "affiliation": "Noetik, Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 143,
+    "affiliation": "Guangxi University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 144,
+    "affiliation": "duxiaoman",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese fintech company"
+  },
+  {
+    "rank": 145,
+    "affiliation": "The University of Winnipeg",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "high",
+    "note": "Canada"
+  },
+  {
+    "rank": 146,
+    "affiliation": "University of Western Ontario",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "high",
+    "note": "Canada"
+  },
+  {
+    "rank": 147,
+    "affiliation": "Western Univeristy",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "medium",
+    "note": "likely Western University typo"
+  },
+  {
+    "rank": 148,
+    "affiliation": "Università di Modena e Reggio Emilia",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Italy"
+  },
+  {
+    "rank": 149,
+    "affiliation": "University of Modena and Reggio Emilia, University of Pisa",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Italy"
+  },
+  {
+    "rank": 150,
+    "affiliation": "Università degli Studi di Modena e Reggio Emilia",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Italy"
+  },
+  {
+    "rank": 151,
+    "affiliation": "Codeway",
+    "papers": 1,
+    "region": "Turkey",
+    "confidence": "medium",
+    "note": "Codeway Studios/AI Turkey"
+  },
+  {
+    "rank": 152,
+    "affiliation": "Visual Recognition Group, CTU in Prague",
+    "papers": 1,
+    "region": "Czech Republic",
+    "confidence": "high",
+    "note": "CTU Prague"
+  },
+  {
+    "rank": 153,
+    "affiliation": "Hupan Lab",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Alibaba/Hupan-related China lab"
+  },
+  {
+    "rank": 154,
+    "affiliation": "Leibniz-Institut für Analytische Wissenschaften",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Leibniz institute"
+  },
+  {
+    "rank": 155,
+    "affiliation": "PKU",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "likely Peking University"
+  },
+  {
+    "rank": 156,
+    "affiliation": "Defense Advanced Research Projects Agency",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "DARPA"
+  },
+  {
+    "rank": 157,
+    "affiliation": "DARPA",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "DARPA"
+  },
+  {
+    "rank": 158,
+    "affiliation": "SketchX AI",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "medium",
+    "note": "SketchX lab, University of Surrey context"
+  },
+  {
+    "rank": 159,
+    "affiliation": "Nanchang Hangkong University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 160,
+    "affiliation": "Mistral AI",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "French AI company"
+  },
+  {
+    "rank": 161,
+    "affiliation": "PhiGent Robotics",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 162,
+    "affiliation": "OPT Machine Vision",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "low",
+    "note": "OPT Machine Vision Tech Co.,Ltd Japan related"
+  },
+  {
+    "rank": 163,
+    "affiliation": "Institute of Computer Science - FORTH",
+    "papers": 1,
+    "region": "Greece",
+    "confidence": "high",
+    "note": "FORTH Greece"
+  },
+  {
+    "rank": 164,
+    "affiliation": "Foundation for Research and Technology - Hellas (FORTH)",
+    "papers": 1,
+    "region": "Greece",
+    "confidence": "high",
+    "note": "FORTH Greece"
+  },
+  {
+    "rank": 165,
+    "affiliation": "Digital Xusheng (Beijing) Technology Co., Ltd",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 166,
+    "affiliation": "Defense Innovation Institute, Academy of Military Science",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China military/CAS keyword"
+  },
+  {
+    "rank": 167,
+    "affiliation": "Intelligence Game and Decision Laboratory",
+    "papers": 1,
+    "region": "Israel",
+    "confidence": "medium",
+    "note": "Israel keyword/name"
+  },
+  {
+    "rank": 168,
+    "affiliation": "ProjectHAT",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved project/company"
+  },
+  {
+    "rank": 169,
+    "affiliation": "Universiteit Antwerpen",
+    "papers": 1,
+    "region": "Belgium",
+    "confidence": "high",
+    "note": "University of Antwerp"
+  },
+  {
+    "rank": 170,
+    "affiliation": "AMS",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "likely Academy of Military Science in this corpus"
+  },
+  {
+    "rank": 171,
+    "affiliation": "PengCheng Labratory",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "typo for Peng Cheng Laboratory"
+  },
+  {
+    "rank": 172,
+    "affiliation": "Hanhwa Aerospace",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "typo for Hanwha Aerospace"
+  },
+  {
+    "rank": 173,
+    "affiliation": "Hanwha Aerospace",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "Korean company"
+  },
+  {
+    "rank": 174,
+    "affiliation": "DeepWisdom",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese AI company"
+  },
+  {
+    "rank": 175,
+    "affiliation": "DSO National Labs",
+    "papers": 1,
+    "region": "Singapore",
+    "confidence": "high",
+    "note": "Singapore defense lab"
+  },
+  {
+    "rank": 176,
+    "affiliation": "Flexera",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 177,
+    "affiliation": "Shandong Institute of Mechanical Design and Research",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Shandong, China"
+  },
+  {
+    "rank": 178,
+    "affiliation": "Ecole Supérieure d'Ingénieurs en Electronique et Electrotechnique",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "ESIEE"
+  },
+  {
+    "rank": 179,
+    "affiliation": "ExaWizards Inc.",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "Japanese AI company"
+  },
+  {
+    "rank": 180,
+    "affiliation": "Beijing Dajia Internet Information Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 181,
+    "affiliation": "Software Engineering",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "medium",
+    "note": "field/department only"
+  },
+  {
+    "rank": 182,
+    "affiliation": "polyic",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "German printed electronics company"
+  },
+  {
+    "rank": 183,
+    "affiliation": "Laoshan Laboratory",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Qingdao/Laoshan lab"
+  },
+  {
+    "rank": 184,
+    "affiliation": "Advanced Institute of Big Data",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "likely China; needs verification"
+  },
+  {
+    "rank": 185,
+    "affiliation": "TerraSense Analytics",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "medium",
+    "note": "Canadian company"
+  },
+  {
+    "rank": 186,
+    "affiliation": "Guangdong University of Finance & Economics",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 187,
+    "affiliation": "Mayo Clinic",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 188,
+    "affiliation": "Yangtze River Delta HlT Robot Technology Research Institute",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Yangtze River Delta / HIT China"
+  },
+  {
+    "rank": 189,
+    "affiliation": "Brave Software Research",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "Brave Software HQ USA"
+  },
+  {
+    "rank": 190,
+    "affiliation": "Nokia networks GmbH",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "GmbH entity"
+  },
+  {
+    "rank": 191,
+    "affiliation": "Foshan University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 192,
+    "affiliation": "Opus AI Research",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 193,
+    "affiliation": "Mininglamp",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Mininglamp Technology China"
+  },
+  {
+    "rank": 194,
+    "affiliation": "Southern Illinois University Carbondale",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 195,
+    "affiliation": "Accenture, Center for Advanced AI",
+    "papers": 1,
+    "region": "Ireland",
+    "confidence": "medium",
+    "note": "global firm HQ Ireland; use corporate HQ"
+  },
+  {
+    "rank": 196,
+    "affiliation": "Accenture",
+    "papers": 1,
+    "region": "Ireland",
+    "confidence": "medium",
+    "note": "global firm HQ Ireland; use corporate HQ"
+  },
+  {
+    "rank": 197,
+    "affiliation": "Shanghai Institute of Microsystem and Information Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 198,
+    "affiliation": "AIOZ Network",
+    "papers": 1,
+    "region": "Singapore",
+    "confidence": "medium",
+    "note": "AIOZ Network Singapore basis"
+  },
+  {
+    "rank": 199,
+    "affiliation": "Bilibili Inc",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese company"
+  },
+  {
+    "rank": 200,
+    "affiliation": "ChongQing University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 201,
+    "affiliation": "Southwest University of Science and Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 202,
+    "affiliation": "Space Research Institute",
+    "papers": 1,
+    "region": "Russia",
+    "confidence": "low",
+    "note": "generic; Russian SRI guess"
+  },
+  {
+    "rank": 203,
+    "affiliation": "IDEAS NCBR",
+    "papers": 1,
+    "region": "Poland",
+    "confidence": "medium",
+    "note": "Polish research initiative"
+  },
+  {
+    "rank": 204,
+    "affiliation": "Shang Hai Jiaotong University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 205,
+    "affiliation": "Guangxi University of Science and Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 206,
+    "affiliation": "TelePIX Co., Ltd.",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "medium",
+    "note": "TelePIX Korea space company"
+  },
+  {
+    "rank": 207,
+    "affiliation": "chinaunicom group",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 208,
+    "affiliation": "Southwest Petroleum University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 209,
+    "affiliation": "GlimpseML",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 210,
+    "affiliation": "GlimspeML",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "typo of GlimpseML, company guess"
+  },
+  {
+    "rank": 211,
+    "affiliation": "Hanoi - Amsterdam High School for the Gifted, Vietnam",
+    "papers": 1,
+    "region": "Vietnam",
+    "confidence": "medium",
+    "note": "Vietnam keyword/name"
+  },
+  {
+    "rank": 212,
+    "affiliation": "Institute for AI Innovation and Societal Impact, Hanoi University of Science and Technology",
+    "papers": 1,
+    "region": "Vietnam",
+    "confidence": "medium",
+    "note": "Vietnam keyword/name"
+  },
+  {
+    "rank": 213,
+    "affiliation": "Honor",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 214,
+    "affiliation": "HONOR Device Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 215,
+    "affiliation": "Data 61, CSIRO",
+    "papers": 1,
+    "region": "Australia",
+    "confidence": "medium",
+    "note": "Australia keyword/name"
+  },
+  {
+    "rank": 216,
+    "affiliation": "Johnson and Johnson",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 217,
+    "affiliation": "Shenyang Research Institute of Foundrary Co.,Ltd.CAM",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 218,
+    "affiliation": "The Atomic Energy and Alternative Energies Commission ( CEA List ), Technological Research Division",
+    "papers": 1,
+    "region": "France",
+    "confidence": "medium",
+    "note": "CEA List"
+  },
+  {
+    "rank": 219,
+    "affiliation": "AVIC Chengdu Aircraft Design & Research Institute",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 220,
+    "affiliation": "Université Claude Bernard Lyon 1",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 221,
+    "affiliation": "The World Bank",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "HQ Washington, DC"
+  },
+  {
+    "rank": 222,
+    "affiliation": "Intercom",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 223,
+    "affiliation": "Cenozoic Robotics",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "robotics company; guess"
+  },
+  {
+    "rank": 224,
+    "affiliation": "The University of Chicago",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 225,
+    "affiliation": "Sami Shamoon College of Engineering",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 226,
+    "affiliation": "Houmo",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Houmo AI/semiconductor China"
+  },
+  {
+    "rank": 227,
+    "affiliation": "Transsion",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese company"
+  },
+  {
+    "rank": 228,
+    "affiliation": "Tel-Aviv University Faculty of Law",
+    "papers": 1,
+    "region": "Israel",
+    "confidence": "medium",
+    "note": "Israel keyword/name"
+  },
+  {
+    "rank": 229,
+    "affiliation": "Jadavpur University",
+    "papers": 1,
+    "region": "India",
+    "confidence": "medium",
+    "note": "India keyword/name"
+  },
+  {
+    "rank": 230,
+    "affiliation": "Gentel",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 231,
+    "affiliation": "Lingyang Industrial Internet Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese Co., Ltd."
+  },
+  {
+    "rank": 232,
+    "affiliation": "KEDACOM",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese company"
+  },
+  {
+    "rank": 233,
+    "affiliation": "Yeshiva University",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 234,
+    "affiliation": "Xihua University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 235,
+    "affiliation": "Guangdong University of Finance",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 236,
+    "affiliation": "George Washington University",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 237,
+    "affiliation": "FusionBrain Lab, AXXX",
+    "papers": 1,
+    "region": "Russia",
+    "confidence": "low",
+    "note": "FusionBrain plus unresolved suffix"
+  },
+  {
+    "rank": 238,
+    "affiliation": "Department of Computer Science, Whiting School of Engineering",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "Johns Hopkins Whiting School"
+  },
+  {
+    "rank": 239,
+    "affiliation": "SketchX",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "medium",
+    "note": "SketchX lab, University of Surrey context"
+  },
+  {
+    "rank": 240,
+    "affiliation": "Abaka AI",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 241,
+    "affiliation": "Southwest University of Nationalities",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 242,
+    "affiliation": "Beijing University of Chemical Technology College of Science: Beijing University of Chemical Technol",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 243,
+    "affiliation": "Coinbase Global, Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 244,
+    "affiliation": "SpreeAI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US AI fashion company"
+  },
+  {
+    "rank": 245,
+    "affiliation": "Spree AI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US AI fashion company"
+  },
+  {
+    "rank": 246,
+    "affiliation": "fbeta",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved"
+  },
+  {
+    "rank": 247,
+    "affiliation": "Adecco",
+    "papers": 1,
+    "region": "Switzerland",
+    "confidence": "medium",
+    "note": "Adecco Group HQ Switzerland"
+  },
+  {
+    "rank": 248,
+    "affiliation": "Construction Project Management Branch, National Petroleum and Natural Gas Pipeline Network Group Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese state company"
+  },
+  {
+    "rank": 249,
+    "affiliation": "Willamette University",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 250,
+    "affiliation": "Tübingen AI Centre",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "Germany keyword/name"
+  },
+  {
+    "rank": 251,
+    "affiliation": "Juelich Supercomputing Center, Research Center Juelich",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 252,
+    "affiliation": "LAION",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "German nonprofit association"
+  },
+  {
+    "rank": 253,
+    "affiliation": "eBay Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 254,
+    "affiliation": "Shanghai",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 255,
+    "affiliation": "PengCheng Laboratory",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Peng Cheng Laboratory"
+  },
+  {
+    "rank": 256,
+    "affiliation": "Muyuan Laboratory",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China lab/company context"
+  },
+  {
+    "rank": 257,
+    "affiliation": "Hefei Thomas School",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Hefei, China"
+  },
+  {
+    "rank": 258,
+    "affiliation": "Niantic, Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 259,
+    "affiliation": "Niantic Spatial",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "Niantic entity"
+  },
+  {
+    "rank": 260,
+    "affiliation": "ChinaTelecom",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China Telecom"
+  },
+  {
+    "rank": 261,
+    "affiliation": "QUST",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Qingdao University of Science and Technology"
+  },
+  {
+    "rank": 262,
+    "affiliation": "UC San Diego Health",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 263,
+    "affiliation": "Zynix AI",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved AI company"
+  },
+  {
+    "rank": 264,
+    "affiliation": "Sync.",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "low",
+    "note": "unresolved/noise"
+  },
+  {
+    "rank": 265,
+    "affiliation": "Cruise LLC",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 266,
+    "affiliation": "LIESMARS, Wuhan Unversity",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 267,
+    "affiliation": "NUAA",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 268,
+    "affiliation": "IIE, CAS",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Institute of Information Engineering, CAS"
+  },
+  {
+    "rank": 269,
+    "affiliation": "Shenyang Ligong University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 270,
+    "affiliation": "InterDigital",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US company"
+  },
+  {
+    "rank": 271,
+    "affiliation": "Xi'an University of artificial intelligence",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 272,
+    "affiliation": "Chengdu Institute of Biology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 273,
+    "affiliation": "Southern University for Science and Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "SUSTech alias"
+  },
+  {
+    "rank": 274,
+    "affiliation": "Aerospace Information Research Institute",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "CAS AIR likely China"
+  },
+  {
+    "rank": 275,
+    "affiliation": "UoG",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "low",
+    "note": "ambiguous; likely University of Glasgow in this corpus"
+  },
+  {
+    "rank": 276,
+    "affiliation": "Computing Science",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "medium",
+    "note": "field only"
+  },
+  {
+    "rank": 277,
+    "affiliation": "Vidyasirimedhi Institute of Science and Technology",
+    "papers": 1,
+    "region": "Thailand",
+    "confidence": "high",
+    "note": "Thailand"
+  },
+  {
+    "rank": 278,
+    "affiliation": "nju",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "likely Nanjing University"
+  },
+  {
+    "rank": 279,
+    "affiliation": "Nanjing Univ of Post and Telecommunications",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 280,
+    "affiliation": "Shanghai Kaiyong Information Technology Co., Ltd",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Shanghai company"
+  },
+  {
+    "rank": 281,
+    "affiliation": "Wenzhou-Kean University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China campus; institution in Wenzhou"
+  },
+  {
+    "rank": 282,
+    "affiliation": "Yinwang Intelligent Technology Co. Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Huawei-related China company"
+  },
+  {
+    "rank": 283,
+    "affiliation": "Deutsches Forschungszentrum für Künstliche Intelligenz GmbH",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "DFKI Germany"
+  },
+  {
+    "rank": 284,
+    "affiliation": "Dongguan University of Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 285,
+    "affiliation": "Shandong Technology and Business Universality",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "typo; Shandong China"
+  },
+  {
+    "rank": 286,
+    "affiliation": "Shenyang University of Chemical Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 287,
+    "affiliation": "SkyWork AI",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Skywork/Kunlun China AI"
+  },
+  {
+    "rank": 288,
+    "affiliation": "Mathmagic",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "MathMagic company guess"
+  },
+  {
+    "rank": 289,
+    "affiliation": "Mathmagical.com",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "website/company guess"
+  },
+  {
+    "rank": 290,
+    "affiliation": "University of Southern Califotnia",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "typo for University of Southern California"
+  },
+  {
+    "rank": 291,
+    "affiliation": "Toyama University",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "Japan"
+  },
+  {
+    "rank": 292,
+    "affiliation": "iie,cas",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Institute of Information Engineering, CAS"
+  },
+  {
+    "rank": 293,
+    "affiliation": "Southern Illinois University-Carbondale",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 294,
+    "affiliation": "Fujian Medical University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 295,
+    "affiliation": "Hiroshima City University",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "Japan"
+  },
+  {
+    "rank": 296,
+    "affiliation": "Bagel Labs",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 297,
+    "affiliation": "Waabi Innovations Inc",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 298,
+    "affiliation": "Ulm University",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 299,
+    "affiliation": "中国科学院自动化研究所",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Institute of Automation, CAS"
+  },
+  {
+    "rank": 300,
+    "affiliation": "Waste Management",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 301,
+    "affiliation": "SIAS, UESTC",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 302,
+    "affiliation": "Seegene Medical Foundation",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "South Korea"
+  },
+  {
+    "rank": 303,
+    "affiliation": "HiDream.ai",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "could not infer reliably from string; leave for manual/web verification"
+  },
+  {
+    "rank": 304,
+    "affiliation": "HiDream.ai Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 305,
+    "affiliation": "Hebei University of Science and Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 306,
+    "affiliation": "Orbital",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 307,
+    "affiliation": "Magic Leap",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "US company"
+  },
+  {
+    "rank": 308,
+    "affiliation": "Guangdong Bohua UHD Innovation Center Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 309,
+    "affiliation": "State University of New York at Albany",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 310,
+    "affiliation": "University at Albany - SUNY",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 311,
+    "affiliation": "TengenX",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 312,
+    "affiliation": "Chung-Ang University, CMLab",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "medium",
+    "note": "Korea keyword/name"
+  },
+  {
+    "rank": 313,
+    "affiliation": "Shanghai xiaoyuan innovation institute",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 314,
+    "affiliation": "Hefei Comprehensive National Science Center",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 315,
+    "affiliation": "Hefei University of Technol",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 316,
+    "affiliation": "University at Buffalo, SUNY",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 317,
+    "affiliation": "University of Kashmir",
+    "papers": 1,
+    "region": "India",
+    "confidence": "high",
+    "note": "India"
+  },
+  {
+    "rank": 318,
+    "affiliation": "International Institute of Information Technology, Hyderabad, International Institute of Information Technology Hyderabad",
+    "papers": 1,
+    "region": "India",
+    "confidence": "high",
+    "note": "IIIT Hyderabad"
+  },
+  {
+    "rank": 319,
+    "affiliation": "Naval University of Engineering",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "PLA Naval University of Engineering"
+  },
+  {
+    "rank": 320,
+    "affiliation": "Dalian Ocean University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 321,
+    "affiliation": "Fuyang Normal University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 322,
+    "affiliation": "Beijing Teleinfo Technology Company Ltd., CAICT",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 323,
+    "affiliation": "IMAGINE LIGM - ENPC IP Paris",
+    "papers": 1,
+    "region": "France",
+    "confidence": "medium",
+    "note": "France keyword/name"
+  },
+  {
+    "rank": 324,
+    "affiliation": "Northern Illinois University",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 325,
+    "affiliation": "AIM Intelligence",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 326,
+    "affiliation": "Independant",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "high",
+    "note": "typo for independent"
+  },
+  {
+    "rank": 327,
+    "affiliation": "SLIM",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved acronym"
+  },
+  {
+    "rank": 328,
+    "affiliation": "Cantina Labs",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 329,
+    "affiliation": "Picsart AI Research",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "Picsart HQ US/Armenia ambiguity; US HQ basis"
+  },
+  {
+    "rank": 330,
+    "affiliation": "Picsart",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "Picsart HQ US/Armenia ambiguity; US HQ basis"
+  },
+  {
+    "rank": 331,
+    "affiliation": "Xi’an University of Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 332,
+    "affiliation": "Kakao Mobility",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "Korean company"
+  },
+  {
+    "rank": 333,
+    "affiliation": "KT Corporation",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "Korean company"
+  },
+  {
+    "rank": 334,
+    "affiliation": "GREYC Laboratory - ENSICAEN, UNICAEN",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 335,
+    "affiliation": "University of Caen Normandy",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 336,
+    "affiliation": "TensorTour Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 337,
+    "affiliation": "TensorTour Inc",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 338,
+    "affiliation": "niversity of Technology Nuremberg",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "typo for University of Technology Nuremberg"
+  },
+  {
+    "rank": 339,
+    "affiliation": "Simplexity Robotics",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 340,
+    "affiliation": "Persona Identities",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "Persona company US"
+  },
+  {
+    "rank": 341,
+    "affiliation": "Persona Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "Persona company US"
+  },
+  {
+    "rank": 342,
+    "affiliation": "Persona",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "Persona company US"
+  },
+  {
+    "rank": 343,
+    "affiliation": "SB Intutions",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "low",
+    "note": "likely Sakana/SB Intuitions? Japan guess"
+  },
+  {
+    "rank": 344,
+    "affiliation": "WisdomAI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 345,
+    "affiliation": "North Minzu University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 346,
+    "affiliation": "Aibee Inc.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Aibee China"
+  },
+  {
+    "rank": 347,
+    "affiliation": "Jiaxing University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 348,
+    "affiliation": "Univesridad Industrial de Santander",
+    "papers": 1,
+    "region": "Colombia",
+    "confidence": "medium",
+    "note": "typo for Universidad Industrial de Santander"
+  },
+  {
+    "rank": 349,
+    "affiliation": "Laboratory for Artificial Intelligence in Design",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 350,
+    "affiliation": "Huhu AI Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 351,
+    "affiliation": "Zillow group",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 352,
+    "affiliation": "Bar Ilan University",
+    "papers": 1,
+    "region": "Israel",
+    "confidence": "high",
+    "note": "Israel"
+  },
+  {
+    "rank": 353,
+    "affiliation": "COMPUTER VISION CENTER",
+    "papers": 1,
+    "region": "Spain",
+    "confidence": "medium",
+    "note": "CVC Barcelona in this corpus"
+  },
+  {
+    "rank": 354,
+    "affiliation": "Department of Computer Science",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "medium",
+    "note": "department only"
+  },
+  {
+    "rank": 355,
+    "affiliation": "Kakao Healthcare Corp",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "Korean company"
+  },
+  {
+    "rank": 356,
+    "affiliation": "JiLin University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 357,
+    "affiliation": "NNCosmos",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "AI company guess"
+  },
+  {
+    "rank": 358,
+    "affiliation": "ZJUT",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 359,
+    "affiliation": "SRI International",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 360,
+    "affiliation": "Liaoning Normal University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 361,
+    "affiliation": "Anuttacon",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved"
+  },
+  {
+    "rank": 362,
+    "affiliation": "Florida Tech",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 363,
+    "affiliation": "Altos Labs, Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 364,
+    "affiliation": "UNC Wilmington",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 365,
+    "affiliation": "mybank",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "MYbank/Ant Group China"
+  },
+  {
+    "rank": 366,
+    "affiliation": "Airbnb",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 367,
+    "affiliation": "Newcapec Electronic Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese Co., Ltd."
+  },
+  {
+    "rank": 368,
+    "affiliation": "Newcapec Electronics",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese company"
+  },
+  {
+    "rank": 369,
+    "affiliation": "Shanghaijiaotong University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Shanghai Jiao Tong University typo"
+  },
+  {
+    "rank": 370,
+    "affiliation": "IMT NORD EUROPE RESEARCH CENTRES",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 371,
+    "affiliation": "IMT Nord Europe",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 372,
+    "affiliation": "Astrazeneca",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "Japan keyword/name"
+  },
+  {
+    "rank": 373,
+    "affiliation": "CECloud Computing Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese cloud company"
+  },
+  {
+    "rank": 374,
+    "affiliation": "NC DHHS",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "North Carolina DHHS"
+  },
+  {
+    "rank": 375,
+    "affiliation": "Ricoh Software Research Center Beijing Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 376,
+    "affiliation": "Chennai Mathematical Institute",
+    "papers": 1,
+    "region": "India",
+    "confidence": "medium",
+    "note": "India keyword/name"
+  },
+  {
+    "rank": 377,
+    "affiliation": "Galbot Co. Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 378,
+    "affiliation": "Kashmir Intelligence",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 379,
+    "affiliation": "Dentium",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "medium",
+    "note": "Korean dental company"
+  },
+  {
+    "rank": 380,
+    "affiliation": "ELLIS Institute",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "ELLIS Institute Tübingen"
+  },
+  {
+    "rank": 381,
+    "affiliation": "Bluedot",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "medium",
+    "note": "BlueDot health company Canada; ambiguity"
+  },
+  {
+    "rank": 382,
+    "affiliation": "Aminer",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "AMiner/Tsinghua ecosystem"
+  },
+  {
+    "rank": 383,
+    "affiliation": "CEA",
+    "papers": 1,
+    "region": "France",
+    "confidence": "medium",
+    "note": "French atomic energy commission"
+  },
+  {
+    "rank": 384,
+    "affiliation": "CEA-List",
+    "papers": 1,
+    "region": "France",
+    "confidence": "medium",
+    "note": "French CEA List"
+  },
+  {
+    "rank": 385,
+    "affiliation": "Huaqiao University XiaMen",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 386,
+    "affiliation": "fal",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "fal.ai company guess"
+  },
+  {
+    "rank": 387,
+    "affiliation": "Miyou Internet Technology (Shanghai) Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Shanghai company"
+  },
+  {
+    "rank": 388,
+    "affiliation": "gaotu",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese education company"
+  },
+  {
+    "rank": 389,
+    "affiliation": "ARM",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "medium",
+    "note": "Arm UK HQ basis"
+  },
+  {
+    "rank": 390,
+    "affiliation": "Mercari, Inc.",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "Japan keyword/name"
+  },
+  {
+    "rank": 391,
+    "affiliation": "Tetras",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved"
+  },
+  {
+    "rank": 392,
+    "affiliation": "Universidad de Alicante",
+    "papers": 1,
+    "region": "Spain",
+    "confidence": "medium",
+    "note": "Spain keyword/name"
+  },
+  {
+    "rank": 393,
+    "affiliation": "Lawrence Livermore National Laboratory",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 394,
+    "affiliation": "VIPSHOP",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese e-commerce company"
+  },
+  {
+    "rank": 395,
+    "affiliation": "Bitdefender",
+    "papers": 1,
+    "region": "Romania",
+    "confidence": "medium",
+    "note": "company origin/HQ Romania"
+  },
+  {
+    "rank": 396,
+    "affiliation": "Politehnica Bucharest",
+    "papers": 1,
+    "region": "Romania",
+    "confidence": "high",
+    "note": "Romania"
+  },
+  {
+    "rank": 397,
+    "affiliation": "Virginia Commonwealth University",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 398,
+    "affiliation": "Computer Vision Center / IDEAS NCBR",
+    "papers": 1,
+    "region": "Spain",
+    "confidence": "medium",
+    "note": "CVC Barcelona; cross with Poland initiative"
+  },
+  {
+    "rank": 399,
+    "affiliation": "Università degli Studi di Firenze",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Italy"
+  },
+  {
+    "rank": 400,
+    "affiliation": "Shanghai Normal University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 401,
+    "affiliation": "HuaZhong Univercity of Science and Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "typo for Huazhong University of Science and Technology"
+  },
+  {
+    "rank": 402,
+    "affiliation": "Hacettepe University",
+    "papers": 1,
+    "region": "Turkey",
+    "confidence": "high",
+    "note": "Turkey"
+  },
+  {
+    "rank": 403,
+    "affiliation": "KE:SAI – KYUTAI ELLIS Scalable Autonomous Intelligence gGmbH",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "Germany keyword/name"
+  },
+  {
+    "rank": 404,
+    "affiliation": "Hypervision Surgical",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "medium",
+    "note": "UK medical imaging company"
+  },
+  {
+    "rank": 405,
+    "affiliation": "Istanbul University",
+    "papers": 1,
+    "region": "Turkey",
+    "confidence": "high",
+    "note": "Turkey"
+  },
+  {
+    "rank": 406,
+    "affiliation": "Prof. Dr. Cemil Tascioglu City Hospital",
+    "papers": 1,
+    "region": "Turkey",
+    "confidence": "high",
+    "note": "Turkey"
+  },
+  {
+    "rank": 407,
+    "affiliation": "Health Sciences University",
+    "papers": 1,
+    "region": "Turkey",
+    "confidence": "medium",
+    "note": "likely Turkey in this corpus"
+  },
+  {
+    "rank": 408,
+    "affiliation": "Prof Dr Cemil Taşçıoğlu City Hospital",
+    "papers": 1,
+    "region": "Turkey",
+    "confidence": "high",
+    "note": "Turkey"
+  },
+  {
+    "rank": 409,
+    "affiliation": "Changhong intelligent robot",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 410,
+    "affiliation": "chongqiong university of technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "typo Chongqing University of Technology"
+  },
+  {
+    "rank": 411,
+    "affiliation": "Wayve AI",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "medium",
+    "note": "UK keyword/name"
+  },
+  {
+    "rank": 412,
+    "affiliation": "Config",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "low",
+    "note": "unresolved/noise"
+  },
+  {
+    "rank": 413,
+    "affiliation": "HNU",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "ambiguous; likely Hunan University in this corpus"
+  },
+  {
+    "rank": 414,
+    "affiliation": "Tuodao Medical",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "medical company, China guess"
+  },
+  {
+    "rank": 415,
+    "affiliation": "AstraZeneca",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "Japan keyword/name"
+  },
+  {
+    "rank": 416,
+    "affiliation": "Karolinska Institutet",
+    "papers": 1,
+    "region": "Sweden",
+    "confidence": "high",
+    "note": "Sweden"
+  },
+  {
+    "rank": 417,
+    "affiliation": "Jiangxi University of Finance and Economics",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 418,
+    "affiliation": "Computer Science Department, School of Computer Science",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "medium",
+    "note": "department only"
+  },
+  {
+    "rank": 419,
+    "affiliation": "Autodesk",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 420,
+    "affiliation": "Reve",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "AI startup/name; HQ guess"
+  },
+  {
+    "rank": 421,
+    "affiliation": "University of Milan-Bicocca",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Italy"
+  },
+  {
+    "rank": 422,
+    "affiliation": "NIO",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 423,
+    "affiliation": "MinesParis PSL",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 424,
+    "affiliation": "Axanea",
+    "papers": 1,
+    "region": "France",
+    "confidence": "medium",
+    "note": "France keyword/name"
+  },
+  {
+    "rank": 425,
+    "affiliation": "RPTU Kaiserslautern",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 426,
+    "affiliation": "OpenBayes Information Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese company"
+  },
+  {
+    "rank": 427,
+    "affiliation": "Joby Aviation",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 428,
+    "affiliation": "TARS Robotics",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "could not infer reliably from string; leave for manual/web verification"
+  },
+  {
+    "rank": 429,
+    "affiliation": "Ready Player Me",
+    "papers": 1,
+    "region": "Estonia",
+    "confidence": "medium",
+    "note": "company origin/HQ Estonia"
+  },
+  {
+    "rank": 430,
+    "affiliation": "Beijing academy of blockchain and edge computing",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 431,
+    "affiliation": "Morpheus AI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 432,
+    "affiliation": "Hanwhasystem",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "medium",
+    "note": "Korea keyword/name"
+  },
+  {
+    "rank": 433,
+    "affiliation": "Hanhwa Group",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "typo for Hanwha Group"
+  },
+  {
+    "rank": 434,
+    "affiliation": "TIH-IITB",
+    "papers": 1,
+    "region": "India",
+    "confidence": "medium",
+    "note": "India keyword/name"
+  },
+  {
+    "rank": 435,
+    "affiliation": "BharatGen",
+    "papers": 1,
+    "region": "India",
+    "confidence": "medium",
+    "note": "India keyword/name"
+  },
+  {
+    "rank": 436,
+    "affiliation": "Merck KGaA",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "German company"
+  },
+  {
+    "rank": 437,
+    "affiliation": "中国科学院信息工程研究所",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Institute of Information Engineering, CAS"
+  },
+  {
+    "rank": 438,
+    "affiliation": "Zuse School ELIZA",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "Germany keyword/name"
+  },
+  {
+    "rank": 439,
+    "affiliation": "University of Hongkong",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Hong Kong treated as China"
+  },
+  {
+    "rank": 440,
+    "affiliation": "Wuyi University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China university"
+  },
+  {
+    "rank": 441,
+    "affiliation": "Beijing Automobile Works",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 442,
+    "affiliation": "Institute of Deep Perception Technology, JITRI",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "JITRI/Jiangsu China"
+  },
+  {
+    "rank": 443,
+    "affiliation": "Chinese People's Liberation Army General Hospital",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "PLA hospital"
+  },
+  {
+    "rank": 444,
+    "affiliation": "Yangzhou University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 445,
+    "affiliation": "ModelBest",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese AI company"
+  },
+  {
+    "rank": 446,
+    "affiliation": "National  Institute of Informatics",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "Japan"
+  },
+  {
+    "rank": 447,
+    "affiliation": "Sakana AI",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "Japan AI company"
+  },
+  {
+    "rank": 448,
+    "affiliation": "Beijing Technology and Business University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 449,
+    "affiliation": "Houmo AI",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Houmo AI China"
+  },
+  {
+    "rank": 450,
+    "affiliation": "De Artificial Intelligence Technology Co., Ltd",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "Co., Ltd; China guess"
+  },
+  {
+    "rank": 451,
+    "affiliation": "De Intelligence Technology Co, Ltd",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "Co., Ltd; China guess"
+  },
+  {
+    "rank": 452,
+    "affiliation": "Hainan Degong Artificial Intelligence Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Hainan/Co., Ltd China"
+  },
+  {
+    "rank": 453,
+    "affiliation": "wake forest university",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "Wake Forest University"
+  },
+  {
+    "rank": 454,
+    "affiliation": "Wake Forest University School of Medicine",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 455,
+    "affiliation": "Wake Forest Baptist Health",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 456,
+    "affiliation": "Xi‘an Jiaotong University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Xi’an Jiaotong University"
+  },
+  {
+    "rank": 457,
+    "affiliation": "jilin university",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 458,
+    "affiliation": "Hillbot",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "robotics company; guess"
+  },
+  {
+    "rank": 459,
+    "affiliation": "Beijing Digital Native Digital City Research Center",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Beijing China"
+  },
+  {
+    "rank": 460,
+    "affiliation": "Anhui polytechnic university",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 461,
+    "affiliation": "Nanyang Normal University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 462,
+    "affiliation": "Mantra Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 463,
+    "affiliation": "Liquid AI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US AI company"
+  },
+  {
+    "rank": 464,
+    "affiliation": "UVT",
+    "papers": 1,
+    "region": "Romania",
+    "confidence": "medium",
+    "note": "likely West University of Timișoara in this context"
+  },
+  {
+    "rank": 465,
+    "affiliation": "University Politehnica Timisoara",
+    "papers": 1,
+    "region": "Romania",
+    "confidence": "high",
+    "note": "Romania"
+  },
+  {
+    "rank": 466,
+    "affiliation": "Hasselt University",
+    "papers": 1,
+    "region": "Belgium",
+    "confidence": "high",
+    "note": "Belgium"
+  },
+  {
+    "rank": 467,
+    "affiliation": "Fuzhou Polytechnic",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 468,
+    "affiliation": "Vectolink (Fuzhou, Fujian) Information Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Fuzhou/Fujian company"
+  },
+  {
+    "rank": 469,
+    "affiliation": "Fujian Normal University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 470,
+    "affiliation": "AMap",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Alibaba AutoNavi/AMap China"
+  },
+  {
+    "rank": 471,
+    "affiliation": "European Space Agency Φ-lab",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "medium",
+    "note": "ESA Φ-lab based at ESRIN, Italy"
+  },
+  {
+    "rank": 472,
+    "affiliation": "Nudt",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China military/CAS keyword"
+  },
+  {
+    "rank": 473,
+    "affiliation": "easywith",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "low",
+    "note": "company guess Korea"
+  },
+  {
+    "rank": 474,
+    "affiliation": "logp(x) lab, MODULABS",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "medium",
+    "note": "MODULABS Korea"
+  },
+  {
+    "rank": 475,
+    "affiliation": "Openchip and Technologies S.L",
+    "papers": 1,
+    "region": "Spain",
+    "confidence": "high",
+    "note": "S.L. Spain"
+  },
+  {
+    "rank": 476,
+    "affiliation": "University of Carthage",
+    "papers": 1,
+    "region": "Tunisia",
+    "confidence": "high",
+    "note": "Tunisia"
+  },
+  {
+    "rank": 477,
+    "affiliation": "AIRI",
+    "papers": 1,
+    "region": "Russia",
+    "confidence": "medium",
+    "note": "Russia keyword/name"
+  },
+  {
+    "rank": 478,
+    "affiliation": "Cognitive AI Systems Lab",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "generic lab name"
+  },
+  {
+    "rank": 479,
+    "affiliation": "Hikrobot Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Hikrobot/Hikvision China"
+  },
+  {
+    "rank": 480,
+    "affiliation": "Gray Swan AI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "AI safety company; US guess"
+  },
+  {
+    "rank": 481,
+    "affiliation": "Constructor University",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 482,
+    "affiliation": "ISTI - CNR",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Italian CNR"
+  },
+  {
+    "rank": 483,
+    "affiliation": "Institute of Information Science and Technologies - National Research Council (ISTI-CNR)",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Italian CNR"
+  },
+  {
+    "rank": 484,
+    "affiliation": "skywork",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Skywork/Kunlun China AI"
+  },
+  {
+    "rank": 485,
+    "affiliation": "Pioneer Centre for Artificial Intelligence, Copenhagen University",
+    "papers": 1,
+    "region": "Denmark",
+    "confidence": "medium",
+    "note": "Denmark keyword/name"
+  },
+  {
+    "rank": 486,
+    "affiliation": "Magiclight",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "AI/video company China guess"
+  },
+  {
+    "rank": 487,
+    "affiliation": "Magic Light Inc.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "AI/video company China guess"
+  },
+  {
+    "rank": 488,
+    "affiliation": "Institute of Numerical Mathematics",
+    "papers": 1,
+    "region": "Russia",
+    "confidence": "medium",
+    "note": "INM RAS likely Russia"
+  },
+  {
+    "rank": 489,
+    "affiliation": "HSE University",
+    "papers": 1,
+    "region": "Russia",
+    "confidence": "high",
+    "note": "Russia"
+  },
+  {
+    "rank": 490,
+    "affiliation": "Hangzhou Hi-tech Innovation Group",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Hangzhou China"
+  },
+  {
+    "rank": 491,
+    "affiliation": "Chubu university",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "Japan"
+  },
+  {
+    "rank": 492,
+    "affiliation": "Turing Inc.",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "Japanese autonomous-driving company Turing"
+  },
+  {
+    "rank": 493,
+    "affiliation": "nudt",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China military/CAS keyword"
+  },
+  {
+    "rank": 494,
+    "affiliation": "Vishwakarma Institute of Information Technology",
+    "papers": 1,
+    "region": "India",
+    "confidence": "medium",
+    "note": "India keyword/name"
+  },
+  {
+    "rank": 495,
+    "affiliation": "University of of South Carolina",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "typo for University of South Carolina"
+  },
+  {
+    "rank": 496,
+    "affiliation": "Pattern recognition center",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "high",
+    "note": "noise/independent"
+  },
+  {
+    "rank": 497,
+    "affiliation": "Wherobots",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US geospatial company"
+  },
+  {
+    "rank": 498,
+    "affiliation": "IMT NORD EUROPE",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 499,
+    "affiliation": "Boise State University",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 500,
+    "affiliation": "University Of Pittsburgh",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 501,
+    "affiliation": "DGene Digital Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese digital tech company"
+  },
+  {
+    "rank": 502,
+    "affiliation": "Mach",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 503,
+    "affiliation": "Hon Hai Research Institute",
+    "papers": 1,
+    "region": "Taiwan",
+    "confidence": "high",
+    "note": "Foxconn/Hon Hai Taiwan"
+  },
+  {
+    "rank": 504,
+    "affiliation": "Jiangsu University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 505,
+    "affiliation": "Shanghai Yinwang Intelligent Technologies Co., Ltd",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Shanghai company"
+  },
+  {
+    "rank": 506,
+    "affiliation": "Yinwang Intelligent Technology Co.,Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Huawei-related China company"
+  },
+  {
+    "rank": 507,
+    "affiliation": "Digiworld Ventures",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved"
+  },
+  {
+    "rank": 508,
+    "affiliation": "Klleon",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "medium",
+    "note": "Korean AI company"
+  },
+  {
+    "rank": 509,
+    "affiliation": "Klleon AI Research",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "medium",
+    "note": "Korean AI company"
+  },
+  {
+    "rank": 510,
+    "affiliation": "Wuhan polytechnic university",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 511,
+    "affiliation": "College of meteorology and oceanography, National University of Defense Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China military/CAS keyword"
+  },
+  {
+    "rank": 512,
+    "affiliation": "Occidental College",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 513,
+    "affiliation": "Synapsor",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved company"
+  },
+  {
+    "rank": 514,
+    "affiliation": "SandGold AI Research",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "AI company guess"
+  },
+  {
+    "rank": 515,
+    "affiliation": "SandGlod AI Research",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "typo; AI company guess"
+  },
+  {
+    "rank": 516,
+    "affiliation": "Pinterest",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "US company"
+  },
+  {
+    "rank": 517,
+    "affiliation": "Ipazia SpA",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "medium",
+    "note": "SpA Italian company form"
+  },
+  {
+    "rank": 518,
+    "affiliation": "TranscEngram",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "unresolved"
+  },
+  {
+    "rank": 519,
+    "affiliation": "Air Force Engineering University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China military/CAS keyword"
+  },
+  {
+    "rank": 520,
+    "affiliation": "Snapchat",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "Snap Inc. product/company"
+  },
+  {
+    "rank": 521,
+    "affiliation": "Deutsches Primatenzentrum (DPZ), Leibnitz-Institut für Primatenforschung",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "German Primate Center"
+  },
+  {
+    "rank": 522,
+    "affiliation": "German Primate Center",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 523,
+    "affiliation": "Konrad Lorenz Institute of Ethology",
+    "papers": 1,
+    "region": "Austria",
+    "confidence": "medium",
+    "note": "Austria"
+  },
+  {
+    "rank": 524,
+    "affiliation": "webank",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese digital bank"
+  },
+  {
+    "rank": 525,
+    "affiliation": "湖南文理学院",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Hunan University of Arts and Science"
+  },
+  {
+    "rank": 526,
+    "affiliation": "Ningxia University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 527,
+    "affiliation": "Beijing Chao-yang Hospital, Capital Medical University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 528,
+    "affiliation": "Qinghai Normal University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 529,
+    "affiliation": "alibabagroup",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Alibaba Group China"
+  },
+  {
+    "rank": 530,
+    "affiliation": "Nuro",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "US robotics company"
+  },
+  {
+    "rank": 531,
+    "affiliation": "Panasonic Holdings Corp.",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "Japan company"
+  },
+  {
+    "rank": 532,
+    "affiliation": "Panasonic AI Lab",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "Panasonic Japan basis"
+  },
+  {
+    "rank": 533,
+    "affiliation": "Panasonic Holdings Corporation",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "Japan company"
+  },
+  {
+    "rank": 534,
+    "affiliation": "LimX Dynamics",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 535,
+    "affiliation": "UST",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "medium",
+    "note": "University of Science and Technology Korea; ambiguous"
+  },
+  {
+    "rank": 536,
+    "affiliation": "Indiana University Indy",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 537,
+    "affiliation": "Space Applications Centre, ISRO",
+    "papers": 1,
+    "region": "India",
+    "confidence": "high",
+    "note": "India"
+  },
+  {
+    "rank": 538,
+    "affiliation": "INDIAN SPACE RESEARCH ORGANIZATION",
+    "papers": 1,
+    "region": "India",
+    "confidence": "high",
+    "note": "India"
+  },
+  {
+    "rank": 539,
+    "affiliation": "Dr. Ing. h.c. Porsche AG",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 540,
+    "affiliation": "Hochschule Esslingen",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 541,
+    "affiliation": "Ebtech Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 542,
+    "affiliation": "Army Engineering University of PLA",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China military/CAS keyword"
+  },
+  {
+    "rank": 543,
+    "affiliation": "INRAE, National Research Institute in Agriculture and Environment",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 544,
+    "affiliation": "National Institute for Agriculture, Environment and Food",
+    "papers": 1,
+    "region": "France",
+    "confidence": "medium",
+    "note": "INRAE translation"
+  },
+  {
+    "rank": 545,
+    "affiliation": "University of Missouri - Kansas City",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 546,
+    "affiliation": "Shanghai Dianji University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 547,
+    "affiliation": "Shanghai Dainji University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "typo Shanghai Dianji University"
+  },
+  {
+    "rank": 548,
+    "affiliation": "Sutter Health",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "US healthcare system"
+  },
+  {
+    "rank": 549,
+    "affiliation": "Momoni AI",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "could not infer reliably from string; leave for manual/web verification"
+  },
+  {
+    "rank": 550,
+    "affiliation": "Avride Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "autonomous-driving company; US guess"
+  },
+  {
+    "rank": 551,
+    "affiliation": "Future Secure AI Pty Ltd",
+    "papers": 1,
+    "region": "Australia",
+    "confidence": "low",
+    "note": "Pty Ltd corporate suffix; needs verification"
+  },
+  {
+    "rank": 552,
+    "affiliation": "NTT",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "Japanese telecom"
+  },
+  {
+    "rank": 553,
+    "affiliation": "Rhizome Labs",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "could not infer reliably from string; leave for manual/web verification"
+  },
+  {
+    "rank": 554,
+    "affiliation": "Sigma Nova",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "could not infer reliably from string; leave for manual/web verification"
+  },
+  {
+    "rank": 555,
+    "affiliation": "EverEx",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "could not infer reliably from string; leave for manual/web verification"
+  },
+  {
+    "rank": 556,
+    "affiliation": "Academy of Military Science",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese Academy of Military Science in corpus context"
+  },
+  {
+    "rank": 557,
+    "affiliation": "Kunsan National University",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "South Korea"
+  },
+  {
+    "rank": 558,
+    "affiliation": "Semyung University",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "South Korea"
+  },
+  {
+    "rank": 559,
+    "affiliation": "Guangxi Transportation Science and Technology Group Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 560,
+    "affiliation": "Chongqing University of Education",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 561,
+    "affiliation": "Astribot Inc",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese robotics company"
+  },
+  {
+    "rank": 562,
+    "affiliation": "CyberAgent",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "Japanese company"
+  },
+  {
+    "rank": 563,
+    "affiliation": "Athena Research and Innovation Centre",
+    "papers": 1,
+    "region": "Greece",
+    "confidence": "high",
+    "note": "Greece"
+  },
+  {
+    "rank": 564,
+    "affiliation": "SUTD",
+    "papers": 1,
+    "region": "Singapore",
+    "confidence": "high",
+    "note": "Singapore University of Technology and Design"
+  },
+  {
+    "rank": 565,
+    "affiliation": "Pengcheng laboratory",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Peng Cheng Laboratory"
+  },
+  {
+    "rank": 566,
+    "affiliation": "College of Information Engineering, Northwest A&F University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 567,
+    "affiliation": "Zhangjiang Laboratory",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Shanghai Zhangjiang Lab"
+  },
+  {
+    "rank": 568,
+    "affiliation": "Kyushu Universty",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "typo for Kyushu University"
+  },
+  {
+    "rank": 569,
+    "affiliation": "Synapath",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "Synapath Technology Shenzhen context"
+  },
+  {
+    "rank": 570,
+    "affiliation": "Xianova Robotics",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "robotics company; China guess"
+  },
+  {
+    "rank": 571,
+    "affiliation": "Synapath AI",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "Synapath Technology Shenzhen context"
+  },
+  {
+    "rank": 572,
+    "affiliation": "patsnap",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 573,
+    "affiliation": "Computer Science",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "medium",
+    "note": "field only"
+  },
+  {
+    "rank": 574,
+    "affiliation": "IMPA",
+    "papers": 1,
+    "region": "Brazil",
+    "confidence": "high",
+    "note": "Brazil"
+  },
+  {
+    "rank": 575,
+    "affiliation": "Instituto Nacional de Matemática Pura e Aplicada - IMPA",
+    "papers": 1,
+    "region": "Brazil",
+    "confidence": "high",
+    "note": "Brazil"
+  },
+  {
+    "rank": 576,
+    "affiliation": "Zhejiang College of Security Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 577,
+    "affiliation": "FPT",
+    "papers": 1,
+    "region": "Vietnam",
+    "confidence": "medium",
+    "note": "Vietnamese tech company"
+  },
+  {
+    "rank": 578,
+    "affiliation": "Université de Bretagne Sud",
+    "papers": 1,
+    "region": "France",
+    "confidence": "high",
+    "note": "France"
+  },
+  {
+    "rank": 579,
+    "affiliation": "Zhejiang Tmall Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Alibaba/Tmall China"
+  },
+  {
+    "rank": 580,
+    "affiliation": "Karlsruher Institute of Technology",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "KIT Germany"
+  },
+  {
+    "rank": 581,
+    "affiliation": "National Cancer Center",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "could be Japan in corpus context"
+  },
+  {
+    "rank": 582,
+    "affiliation": "Shaanxi University of Science & Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 583,
+    "affiliation": "Griffith University",
+    "papers": 1,
+    "region": "Australia",
+    "confidence": "high",
+    "note": "Australia"
+  },
+  {
+    "rank": 584,
+    "affiliation": "Intime Department Store",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Alibaba/China retailer"
+  },
+  {
+    "rank": 585,
+    "affiliation": "SYUCT/SIA",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Shenyang University of Chemical Technology/SIA context"
+  },
+  {
+    "rank": 586,
+    "affiliation": "UT Southwestern Medical Center",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 587,
+    "affiliation": "Eigen AI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA keyword/name"
+  },
+  {
+    "rank": 588,
+    "affiliation": "PlayStation",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "medium",
+    "note": "Sony/PlayStation Japan basis"
+  },
+  {
+    "rank": 589,
+    "affiliation": "College of Electronic Engineering, National University of Defense Technology, Changsha",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 590,
+    "affiliation": "Lightillusions",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "low",
+    "note": "Light Illusion UK company guess"
+  },
+  {
+    "rank": 591,
+    "affiliation": "Hunan Technology and Business University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 592,
+    "affiliation": "hutb",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Hunan University of Technology and Business"
+  },
+  {
+    "rank": 593,
+    "affiliation": "KRAFTON, Inc.",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "Korean company"
+  },
+  {
+    "rank": 594,
+    "affiliation": "KRAFTON AI",
+    "papers": 1,
+    "region": "South Korea",
+    "confidence": "high",
+    "note": "Korean company"
+  },
+  {
+    "rank": 595,
+    "affiliation": "DeepLux Technology Inc",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "Inc suffix; needs verification"
+  },
+  {
+    "rank": 596,
+    "affiliation": "University of Memphis",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 597,
+    "affiliation": "Nanjing Institute of Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 598,
+    "affiliation": "James Cook University",
+    "papers": 1,
+    "region": "Australia",
+    "confidence": "high",
+    "note": "Australia"
+  },
+  {
+    "rank": 599,
+    "affiliation": "Tottori University",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "Japan"
+  },
+  {
+    "rank": 600,
+    "affiliation": "Donghai Lab",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China lab guess"
+  },
+  {
+    "rank": 601,
+    "affiliation": "Donghailab",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China lab guess"
+  },
+  {
+    "rank": 602,
+    "affiliation": "La Forge - Ubisoft",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "medium",
+    "note": "Ubisoft La Forge, Montreal"
+  },
+  {
+    "rank": 603,
+    "affiliation": "Self",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "high",
+    "note": "self/independent"
+  },
+  {
+    "rank": 604,
+    "affiliation": "Kunlun Skywork",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Kunlun/Skywork China"
+  },
+  {
+    "rank": 605,
+    "affiliation": "inspirai",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese AI/robotics company"
+  },
+  {
+    "rank": 606,
+    "affiliation": "Skywork AI",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Skywork/Kunlun China AI"
+  },
+  {
+    "rank": 607,
+    "affiliation": "Beijing Skywork Intelligence Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Beijing company"
+  },
+  {
+    "rank": 608,
+    "affiliation": "UMD",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "University of Maryland"
+  },
+  {
+    "rank": 609,
+    "affiliation": "InSpatio Intelligent Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "intelligent technology company; China guess"
+  },
+  {
+    "rank": 610,
+    "affiliation": "inspatio",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 611,
+    "affiliation": "Beijing Institute of Artificial Intelligence",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Beijing/China"
+  },
+  {
+    "rank": 612,
+    "affiliation": "Southwest University of Finance and Economics",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 613,
+    "affiliation": "Manycore, Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 614,
+    "affiliation": "Department of Computer Science, Unive",
+    "papers": 1,
+    "region": "Unknown / Independent / Noise",
+    "confidence": "medium",
+    "note": "truncated affiliation"
+  },
+  {
+    "rank": 615,
+    "affiliation": "Jiangsu University Of Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 616,
+    "affiliation": "Primievision Co.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 617,
+    "affiliation": "Institute of Computer and Communication Engineering",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "generic institute"
+  },
+  {
+    "rank": 618,
+    "affiliation": "University of Toyama",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "high",
+    "note": "Japan"
+  },
+  {
+    "rank": 619,
+    "affiliation": "Jiangsu University of Science And Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 620,
+    "affiliation": "Unisoc",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese semiconductor company"
+  },
+  {
+    "rank": 621,
+    "affiliation": "Image Algorithm",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "generic phrase"
+  },
+  {
+    "rank": 622,
+    "affiliation": "Shizuku AI",
+    "papers": 1,
+    "region": "Japan",
+    "confidence": "low",
+    "note": "AI company/name; Japan guess"
+  },
+  {
+    "rank": 623,
+    "affiliation": "Synthesia",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "medium",
+    "note": "AI video company HQ UK"
+  },
+  {
+    "rank": 624,
+    "affiliation": "Halmstad University",
+    "papers": 1,
+    "region": "Sweden",
+    "confidence": "high",
+    "note": "Sweden"
+  },
+  {
+    "rank": 625,
+    "affiliation": "Guangdong Institute of Intelligence Science and Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 626,
+    "affiliation": "Thinking Machines Lab",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US AI company/lab"
+  },
+  {
+    "rank": 627,
+    "affiliation": "Monroe University",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "USA"
+  },
+  {
+    "rank": 628,
+    "affiliation": "GigaAI",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "AI company guess"
+  },
+  {
+    "rank": 629,
+    "affiliation": "Chang' an University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chang’an University China"
+  },
+  {
+    "rank": 630,
+    "affiliation": "The Hessian Center for AI",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 631,
+    "affiliation": "Southeast Univeristy",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "typo for Southeast University China"
+  },
+  {
+    "rank": 632,
+    "affiliation": "Wuhan Textile University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 633,
+    "affiliation": "Chongqing Normal University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 634,
+    "affiliation": "South East University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "likely Southeast University China"
+  },
+  {
+    "rank": 635,
+    "affiliation": "iFLYTEK",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese AI company"
+  },
+  {
+    "rank": 636,
+    "affiliation": "iFLYTEK Research",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese AI company"
+  },
+  {
+    "rank": 637,
+    "affiliation": "dClimate",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "could not infer reliably from string; leave for manual/web verification"
+  },
+  {
+    "rank": 638,
+    "affiliation": "Cyclops MRV Inc",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "US-style corporate suffix; needs verification"
+  },
+  {
+    "rank": 639,
+    "affiliation": "OriginArk",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "company guess China"
+  },
+  {
+    "rank": 640,
+    "affiliation": "University of Colombo",
+    "papers": 1,
+    "region": "Sri Lanka",
+    "confidence": "high",
+    "note": "Sri Lanka"
+  },
+  {
+    "rank": 641,
+    "affiliation": "Capital University of Physical Education And Sports",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 642,
+    "affiliation": "Institution of Artificial Intelligence in Sport in the capital university of physical education and sport",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 643,
+    "affiliation": "cupes",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Capital University of Physical Education and Sports"
+  },
+  {
+    "rank": 644,
+    "affiliation": "Universidad de Alcalá",
+    "papers": 1,
+    "region": "Spain",
+    "confidence": "high",
+    "note": "Spain"
+  },
+  {
+    "rank": 645,
+    "affiliation": "Xidain University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "typo for Xidian University"
+  },
+  {
+    "rank": 646,
+    "affiliation": "Nuro.ai",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "US robotics company"
+  },
+  {
+    "rank": 647,
+    "affiliation": "Honda Research Institution US",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "US in name"
+  },
+  {
+    "rank": 648,
+    "affiliation": "Yazd University",
+    "papers": 1,
+    "region": "Iran",
+    "confidence": "high",
+    "note": "Iran"
+  },
+  {
+    "rank": 649,
+    "affiliation": "Hefei Institution of Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "likely Hefei University of Technology typo"
+  },
+  {
+    "rank": 650,
+    "affiliation": "DIGITAL QINGDAO CONSTRUCTION CO.,LTD.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Qingdao China"
+  },
+  {
+    "rank": 651,
+    "affiliation": "Kitware, Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA company"
+  },
+  {
+    "rank": 652,
+    "affiliation": "Kitware",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA company"
+  },
+  {
+    "rank": 653,
+    "affiliation": "Kitware, Inc",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA company"
+  },
+  {
+    "rank": 654,
+    "affiliation": "May Mobility",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "US autonomous vehicle company"
+  },
+  {
+    "rank": 655,
+    "affiliation": "The School of Artificial Intelligence and Computer Science",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "generic/truncated"
+  },
+  {
+    "rank": 656,
+    "affiliation": "DocPanel",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 657,
+    "affiliation": "Institute of Intelligent Machines",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "CAS Institute of Intelligent Machines likely China"
+  },
+  {
+    "rank": 658,
+    "affiliation": "Nullmax",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese autonomous-driving company"
+  },
+  {
+    "rank": 659,
+    "affiliation": "Cloudspace Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "Co., Ltd.; China guess"
+  },
+  {
+    "rank": 660,
+    "affiliation": "Skild AI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US AI robotics company"
+  },
+  {
+    "rank": 661,
+    "affiliation": "LifeCanvas Technologies",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US company"
+  },
+  {
+    "rank": 662,
+    "affiliation": "LifeCanvas Technologies Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US company"
+  },
+  {
+    "rank": 663,
+    "affiliation": "CCF Theoretical Computer Science Technical Committee",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China Computer Federation"
+  },
+  {
+    "rank": 664,
+    "affiliation": "College of Electronic Science and Technology, National University of Defense Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 665,
+    "affiliation": "CAS Center for Excellence in Brain Science and Intelligence Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "CAS China"
+  },
+  {
+    "rank": 666,
+    "affiliation": "NUS School of Computing",
+    "papers": 1,
+    "region": "Singapore",
+    "confidence": "high",
+    "note": "NUS"
+  },
+  {
+    "rank": 667,
+    "affiliation": "CATL",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Chinese company"
+  },
+  {
+    "rank": 668,
+    "affiliation": "TORC Europe GMBH",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "GmbH Germany/EU entity"
+  },
+  {
+    "rank": 669,
+    "affiliation": "Torc Robotics",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US autonomous trucking company"
+  },
+  {
+    "rank": 670,
+    "affiliation": "Naval university of engineering",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "PLA Naval University of Engineering"
+  },
+  {
+    "rank": 671,
+    "affiliation": "DSO National Laboratories",
+    "papers": 1,
+    "region": "Singapore",
+    "confidence": "high",
+    "note": "Singapore defense lab"
+  },
+  {
+    "rank": 672,
+    "affiliation": "THU",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "likely Tsinghua University in this corpus"
+  },
+  {
+    "rank": 673,
+    "affiliation": "Pengcheng Lab",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Peng Cheng Laboratory"
+  },
+  {
+    "rank": 674,
+    "affiliation": "Bach Khoa University (HCMUT)",
+    "papers": 1,
+    "region": "Vietnam",
+    "confidence": "high",
+    "note": "Vietnam"
+  },
+  {
+    "rank": 675,
+    "affiliation": "University of Manitoba",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "high",
+    "note": "Canada"
+  },
+  {
+    "rank": 676,
+    "affiliation": "Beijing SanKuai Online Technology Co., Ltd.",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Meituan/Sankuai China"
+  },
+  {
+    "rank": 677,
+    "affiliation": "Women’s Hospital, School of Medicine",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "incomplete medical affiliation"
+  },
+  {
+    "rank": 678,
+    "affiliation": "State University of New York, Buffalo",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 679,
+    "affiliation": "SUNY Binghamton",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 680,
+    "affiliation": "Twelvelabs",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "Twelve Labs US/Korea ambiguity; US HQ basis"
+  },
+  {
+    "rank": 681,
+    "affiliation": "LIVIA, ETS",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "high",
+    "note": "ÉTS Montréal"
+  },
+  {
+    "rank": 682,
+    "affiliation": "Chughtai institute of pathology",
+    "papers": 1,
+    "region": "Pakistan",
+    "confidence": "medium",
+    "note": "Pakistan"
+  },
+  {
+    "rank": 683,
+    "affiliation": "Information Technology University",
+    "papers": 1,
+    "region": "Pakistan",
+    "confidence": "medium",
+    "note": "likely ITU Lahore from corpus"
+  },
+  {
+    "rank": 684,
+    "affiliation": "Shanghai Qi Zhi Institue",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Shanghai Qi Zhi Institute typo"
+  },
+  {
+    "rank": 685,
+    "affiliation": "Dalian Polytechnic University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 686,
+    "affiliation": "Light Illusions",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "low",
+    "note": "Light Illusion UK company guess"
+  },
+  {
+    "rank": 687,
+    "affiliation": "lightillusions",
+    "papers": 1,
+    "region": "United Kingdom",
+    "confidence": "low",
+    "note": "Light Illusion UK company guess"
+  },
+  {
+    "rank": 688,
+    "affiliation": "xinjiang university",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 689,
+    "affiliation": "Hangzhou Research Institute of AI and Holographic Technology",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Hangzhou China"
+  },
+  {
+    "rank": 690,
+    "affiliation": "Central South Univertsity",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "typo for Central South University"
+  },
+  {
+    "rank": 691,
+    "affiliation": "State University of New York at Binghamton",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 692,
+    "affiliation": "Western Digital Corporation",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "company HQ basis"
+  },
+  {
+    "rank": 693,
+    "affiliation": "CLEVELAND STATE UNIVERSITY",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 694,
+    "affiliation": "Qwen",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "Alibaba/Qwen China"
+  },
+  {
+    "rank": 695,
+    "affiliation": "StepFun AI",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "Chinese AI company"
+  },
+  {
+    "rank": 696,
+    "affiliation": "AIGC Research",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "generic lab/department"
+  },
+  {
+    "rank": 697,
+    "affiliation": "JYXC",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "unresolved acronym, China guess"
+  },
+  {
+    "rank": 698,
+    "affiliation": "CUNY City College of NY",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 699,
+    "affiliation": "Kyutai",
+    "papers": 1,
+    "region": "France",
+    "confidence": "medium",
+    "note": "French AI lab"
+  },
+  {
+    "rank": 700,
+    "affiliation": "Copenhagen University Hospital Amager and Hvidovre",
+    "papers": 1,
+    "region": "Denmark",
+    "confidence": "high",
+    "note": "Denmark"
+  },
+  {
+    "rank": 701,
+    "affiliation": "Pegaso University",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "medium",
+    "note": "Università Telematica Pegaso"
+  },
+  {
+    "rank": 702,
+    "affiliation": "CNR IMATI",
+    "papers": 1,
+    "region": "Italy",
+    "confidence": "high",
+    "note": "Italian CNR"
+  },
+  {
+    "rank": 703,
+    "affiliation": "Mayachitra Inc",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "Inc company guess"
+  },
+  {
+    "rank": 704,
+    "affiliation": "Henry Ford Health",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 705,
+    "affiliation": "iMean.AI",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "AI company guess"
+  },
+  {
+    "rank": 706,
+    "affiliation": "iMeanAI",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "AI company guess"
+  },
+  {
+    "rank": 707,
+    "affiliation": "mach-drive",
+    "papers": 1,
+    "region": "China",
+    "confidence": "low",
+    "note": "autonomous driving company guess"
+  },
+  {
+    "rank": 708,
+    "affiliation": "State University of New York, Binghamton",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "high",
+    "note": "USA"
+  },
+  {
+    "rank": 709,
+    "affiliation": "Chongqing Jiaotong University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "medium",
+    "note": "China keyword/name"
+  },
+  {
+    "rank": 710,
+    "affiliation": "Tianjin Univerity",
+    "papers": 1,
+    "region": "Other / Needs Review",
+    "confidence": "low",
+    "note": "could not infer reliably from string; leave for manual/web verification"
+  },
+  {
+    "rank": 711,
+    "affiliation": "Western Sydney University",
+    "papers": 1,
+    "region": "Australia",
+    "confidence": "high",
+    "note": "Australia"
+  },
+  {
+    "rank": 712,
+    "affiliation": "BLUEDOT",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "medium",
+    "note": "BlueDot health company Canada; ambiguity"
+  },
+  {
+    "rank": 713,
+    "affiliation": "Bluedot Inc",
+    "papers": 1,
+    "region": "Canada",
+    "confidence": "medium",
+    "note": "BlueDot health company Canada; ambiguity"
+  },
+  {
+    "rank": 714,
+    "affiliation": "GFZ Helmholtz Centre for Geosciences",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "high",
+    "note": "Germany"
+  },
+  {
+    "rank": 715,
+    "affiliation": "Vision Impulse GmbH",
+    "papers": 1,
+    "region": "Germany",
+    "confidence": "medium",
+    "note": "GmbH company"
+  },
+  {
+    "rank": 716,
+    "affiliation": "Theta Labs, Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "medium",
+    "note": "US company"
+  },
+  {
+    "rank": 717,
+    "affiliation": "Wand Technologies Inc.",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "Inc company guess"
+  },
+  {
+    "rank": 718,
+    "affiliation": "Bradbury Group",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "company guess"
+  },
+  {
+    "rank": 719,
+    "affiliation": "Wand AI",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "AI company guess"
+  },
+  {
+    "rank": 720,
+    "affiliation": "Huzhou Normal University",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 721,
+    "affiliation": "Institute of Dataspace, Hefei Comprehensive National Science Center",
+    "papers": 1,
+    "region": "China",
+    "confidence": "high",
+    "note": "China"
+  },
+  {
+    "rank": 722,
+    "affiliation": "Rembrand",
+    "papers": 1,
+    "region": "USA",
+    "confidence": "low",
+    "note": "AI media/ad company guess"
+  }
+]

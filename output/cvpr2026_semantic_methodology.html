@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>CVPR 2026 Semantic Topic Methodology</title>
+<style>
+:root{--bg:#f5f5f7;--panel:#fff;--text:#1d1d1f;--text-2:#424245;--muted:#6e6e73;--border:#d2d2d7;--border-soft:#e5e5ea;--accent:#0066cc;--accent-soft:#eef5ff;--font:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font-family:var(--font);font-size:15px;line-height:1.62}main{max-width:980px;margin:0 auto;padding:42px 24px 80px}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}.top{display:flex;justify-content:space-between;gap:16px;align-items:center;margin-bottom:28px}.back{border:1px solid var(--border-soft);background:var(--panel);border-radius:999px;padding:6px 12px;font-size:13px}h1{font-size:42px;line-height:1.08;margin:0 0 12px;letter-spacing:-.03em}h2{font-size:22px;margin:30px 0 8px;letter-spacing:-.02em}p{color:var(--text-2);margin:8px 0}.lede{font-size:18px;max-width:820px}.card{background:var(--panel);border:1px solid var(--border-soft);border-radius:10px;padding:18px;margin:16px 0}.grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}.stat{background:var(--accent-soft);border:1px solid rgba(0,102,204,.12);border-radius:8px;padding:12px}.stat .v{font-size:24px;font-weight:700;color:var(--accent)}.stat .l{font-size:11px;text-transform:uppercase;color:var(--muted);letter-spacing:.06em}ul{padding-left:20px;color:var(--text-2)}li{margin:6px 0}table{width:100%;border-collapse:collapse;background:var(--panel);font-size:14px}th,td{border-bottom:1px solid var(--border-soft);padding:8px 10px;text-align:left;vertical-align:top}th{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);background:#fbfbfd}code{background:var(--accent-soft);color:var(--accent);border-radius:5px;padding:1px 5px}.note{font-size:13px;color:var(--muted)}@media(max-width:720px){.grid{grid-template-columns:1fr 1fr}h1{font-size:34px}.top{align-items:flex-start;flex-direction:column}}
+</style>
+</head>
+<body>
+<main>
+  <div class="top"><a class="back" href="cvpr2026_explorer.html">Back to explorer</a><span class="note">Generated with the local CVPR 2026 explorer build</span></div>
+  <h1>Semantic Topic Tagging Methodology</h1>
+  <p class="lede">이 문서는 CVPR 2026 Paper Explorer의 계통도(topic phylogeny)가 어떻게 만들어졌는지 정리한 방법론이다. 초기 키워드 매칭 방식은 폐기하고, 논문별 title과 abstract를 의미론적으로 읽어 최대 3개의 연구분야 태그를 부여했다.</p>
+
+  <div class="grid">
+    <div class="stat"><div class="v">4,070</div><div class="l">Papers</div></div>
+    <div class="stat"><div class="v">4,070</div><div class="l">Semantic tagged</div></div>
+    <div class="stat"><div class="v">3</div><div class="l">Max tags/paper</div></div>
+    <div class="stat"><div class="v">7</div><div class="l">Unclassified</div></div>
+  </div>
+
+  <h2>1. Input</h2>
+  <div class="card">
+    <p>각 논문은 CVPR 2026 paper JSON에서 추출한 <code>title</code>, <code>abstract</code>, <code>type</code>을 기준으로 분류했다. 저자명, 소속, 국가 정보는 topic 판단에 사용하지 않았다.</p>
+  </div>
+
+  <h2>2. Taxonomy</h2>
+  <div class="card">
+    <p>라벨 체계는 CVML Paper Phylogeny 스타일을 따라 4단계로 고정했다: <code>phylum -> class -> order -> genus</code>. 에이전트는 자유 라벨을 만들지 않고 아래 허용 라벨 중에서만 선택했다.</p>
+    <table><thead><tr><th>Phylum</th><th>Class</th><th>Order</th><th>Genus</th></tr></thead><tbody><tr><td>Multimodal &amp; Language</td><td>Vision-Language Models</td><td>MLLM Reasoning</td><td>VLM / MLLM</td></tr><tr><td>Multimodal &amp; Language</td><td>Language Grounding</td><td>Grounded Understanding</td><td>Grounding</td></tr><tr><td>Multimodal &amp; Language</td><td>Agents</td><td>GUI / Web Agents</td><td>Agentic AI</td></tr><tr><td>Generative Models</td><td>Diffusion Models</td><td>Image Generation</td><td>Diffusion</td></tr><tr><td>Generative Models</td><td>Video Generation</td><td>Temporal Synthesis</td><td>Video Generation</td></tr><tr><td>Generative Models</td><td>Editing &amp; Personalization</td><td>Controllable Generation</td><td>Image Editing</td></tr><tr><td>3D Vision &amp; Geometry</td><td>Neural Rendering</td><td>Gaussian / NeRF</td><td>3D Gaussian Splatting</td></tr><tr><td>3D Vision &amp; Geometry</td><td>Reconstruction</td><td>Surface / Scene Reconstruction</td><td>3D Reconstruction</td></tr><tr><td>3D Vision &amp; Geometry</td><td>Pose &amp; Registration</td><td>Camera/Object Pose</td><td>Pose Estimation</td></tr><tr><td>3D Vision &amp; Geometry</td><td>Point Clouds</td><td>Point Representation</td><td>Point Cloud</td></tr><tr><td>Recognition &amp; Classification</td><td>Image Classification</td><td>Representation Learning</td><td>Classification</td></tr><tr><td>Recognition &amp; Classification</td><td>Retrieval</td><td>Image/Text Retrieval</td><td>Retrieval</td></tr><tr><td>Detection &amp; Tracking</td><td>Object Detection</td><td>Generic Detection</td><td>Detection</td></tr><tr><td>Detection &amp; Tracking</td><td>Tracking</td><td>Object Tracking</td><td>Tracking</td></tr><tr><td>Segmentation &amp; Dense Prediction</td><td>Segmentation</td><td>Semantic / Instance Segmentation</td><td>Segmentation</td></tr><tr><td>Segmentation &amp; Dense Prediction</td><td>Depth &amp; Flow</td><td>Dense Geometry</td><td>Depth / Optical Flow</td></tr><tr><td>Video &amp; Motion</td><td>Video Understanding</td><td>Temporal Reasoning</td><td>Video Understanding</td></tr><tr><td>Video &amp; Motion</td><td>Human Motion</td><td>Pose / Motion</td><td>Human Motion</td></tr><tr><td>Low-level Vision</td><td>Restoration</td><td>Image Restoration</td><td>Restoration</td></tr><tr><td>Low-level Vision</td><td>Image Quality</td><td>Quality Assessment</td><td>IQA</td></tr><tr><td>Learning Algorithms</td><td>Optimization</td><td>Training Methods</td><td>Optimization</td></tr><tr><td>Learning Algorithms</td><td>Self-supervised Learning</td><td>Pretraining</td><td>Self-supervised</td></tr><tr><td>Learning Algorithms</td><td>Efficient ML</td><td>Compression / Pruning</td><td>Efficient Models</td></tr><tr><td>Robustness &amp; Safety</td><td>Robustness</td><td>OOD / Domain Shift</td><td>Robustness</td></tr><tr><td>Robustness &amp; Safety</td><td>Security &amp; Safety</td><td>Adversarial / Safe AI</td><td>Safety</td></tr><tr><td>Robotics &amp; Embodied AI</td><td>Embodied Agents</td><td>Navigation / Manipulation</td><td>Embodied AI</td></tr><tr><td>Autonomous Driving</td><td>Driving Perception</td><td>Perception / Planning</td><td>Autonomous Driving</td></tr><tr><td>Medical &amp; Scientific Imaging</td><td>Medical Vision</td><td>Clinical Imaging</td><td>Medical Imaging</td></tr><tr><td>Remote Sensing &amp; Earth</td><td>Remote Sensing</td><td>Satellite / Aerial</td><td>Remote Sensing</td></tr><tr><td>Data &amp; Evaluation</td><td>Datasets &amp; Benchmarks</td><td>Evaluation</td><td>Benchmark</td></tr><tr><td>Computational Imaging</td><td>Sensors &amp; Cameras</td><td>Novel Imaging</td><td>Computational Imaging</td></tr></tbody></table>
+  </div>
+
+  <h2>3. Six-Agent Annotation</h2>
+  <div class="card">
+    <p>전체 4,070편을 여섯 구간으로 나누고, 각 에이전트가 자기 구간의 초록을 읽어 독립적으로 분류했다.</p>
+    <table><thead><tr><th>Worker</th><th>Paper IDs</th><th>Papers</th></tr></thead><tbody><tr><td>Agent 01</td><td>1-679</td><td>679</td></tr><tr><td>Agent 02</td><td>680-1358</td><td>679</td></tr><tr><td>Agent 03</td><td>1359-2037</td><td>679</td></tr><tr><td>Agent 04</td><td>2038-2716</td><td>679</td></tr><tr><td>Agent 05</td><td>2717-3395</td><td>679</td></tr><tr><td>Agent 06</td><td>3396-4070</td><td>675</td></tr></tbody></table>
+  </div>
+
+  <h2>4. Decision Rules</h2>
+  <div class="card">
+    <ul>
+      <li>키워드가 보인다는 이유만으로 태그하지 않고, 논문의 주된 문제 설정과 기여를 우선했다.</li>
+      <li>방법론 단어보다 실제 task/domain을 우선했다. 예를 들어 diffusion을 도구로 쓴 medical segmentation 논문은 medical/segmentation 성격을 함께 고려했다.</li>
+      <li>각 논문은 최소 1개, 최대 3개 topic만 가진다.</li>
+      <li>여러 분야가 동등하게 중요하면 primary task, application domain, method family 순서로 우선순위를 두었다.</li>
+      <li>정말 맞는 taxonomy가 없을 때만 <code>Unclassified</code>를 사용했다.</li>
+    </ul>
+  </div>
+
+  <h2>5. Merge Validation</h2>
+  <div class="card">
+    <p>여섯 결과 파일은 <code>scripts/merge_semantic_topics.py</code>로 병합했다. 병합 단계에서 모든 paper id가 정확히 한 번씩 존재하는지, topic 수가 3개 이하인지, 모든 라벨이 허용 taxonomy 안에 있는지 검증했다.</p>
+  </div>
+
+  <h2>6. Result Snapshot</h2>
+  <div class="card">
+    <table><thead><tr><th>Top phylum</th><th>Tagged paper count</th></tr></thead><tbody><tr><td>Generative Models</td><td>969</td></tr><tr><td>Multimodal &amp; Language</td><td>967</td></tr><tr><td>Learning Algorithms</td><td>829</td></tr><tr><td>3D Vision &amp; Geometry</td><td>788</td></tr><tr><td>Robustness &amp; Safety</td><td>486</td></tr><tr><td>Video &amp; Motion</td><td>431</td></tr><tr><td>Segmentation &amp; Dense Prediction</td><td>381</td></tr><tr><td>Recognition &amp; Classification</td><td>343</td></tr><tr><td>Data &amp; Evaluation</td><td>319</td></tr><tr><td>Low-level Vision</td><td>298</td></tr><tr><td>Detection &amp; Tracking</td><td>286</td></tr><tr><td>Robotics &amp; Embodied AI</td><td>267</td></tr></tbody></table>
+  </div>
+
+  <h2>7. Limitations</h2>
+  <div class="card">
+    <p>이 분류는 논문 원문 전체가 아니라 title과 abstract만 사용한 탐색용 의미론적 태깅이다. 세부 subfield의 미묘한 차이, 저자 의도, 벤치마크 중심 논문과 방법론 중심 논문의 경계는 완벽히 반영하지 못할 수 있다. 따라서 이 계통도는 정밀 bibliometric ground truth라기보다 CVPR 2026 논문군의 연구 흐름을 빠르게 탐색하기 위한 지도에 가깝다.</p>
+  </div>
+</main>
+</body>
+</html>

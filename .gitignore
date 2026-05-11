@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+# Large/generated lookup caches used during affiliation-region exploration.
+classification/wikidata_cache.json
+classification/ror_cache.json
+
+# Interrupted arXiv probing scratch files. Public arXiv links are not part of
+# the current explorer build.
+classification/arxiv_chunks/
+classification/arxiv_chunk_*.log
+classification/arxiv_chunk_*.err.log
+classification/arxiv_links_chunk_*.json
+
+# Worker scratch chunks; the merged semantic_topics.json is the build input.
+classification/semantic_chunks/
+classification/semantic_topics_chunk_*.json
